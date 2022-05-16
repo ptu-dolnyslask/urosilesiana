@@ -1,0 +1,254 @@
+---
+---
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Limelight|Quicksand|Francois+One|Oxygen');
+
+$select-triangle: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAh0lEQVQ4T93TMQrCUAzG8V9x8QziiYSuXdzFC7h4AcELOPQAdXYovZCHEATlgQV5GFTe1ozJlz/kS1IpjKqw3wQBVyy++JI0y1GTe7DCBbMAckeNIQKk/BanALBB+16LtnDELoMcsM/BESDlz2heDR3WePwKSLo5eoxz3z6NNcFD+vu3ij14Aqz/DxGbKB7CAAAAAElFTkSuQmCC');
+
+
+// Dark pastel
+$color-primary-0: #2A4D6E;	// Main Primary color */
+$color-primary-1: #728CA6;
+$color-primary-2: #4A6B8A;
+$color-primary-3: #133353;
+$color-primary-4: #041E37;
+
+
+// Default
+// $color-primary-0: #2E4272;	// Main Primary color */
+// $color-primary-1: #7887AB;
+// $color-primary-2: #4F628E;
+// $color-primary-3: #162955;
+// $color-primary-4: #061539;
+
+$light-grey: #FCFCFC; 
+
+$background: $light-grey;
+$navbar-bg: $color-primary-0;
+$nav-bg: $color-primary-3;
+$nav-elem: $color-primary-2;
+$nav-hover: $color-primary-1;
+$nav-color: white;
+$content-bg: #EAEAEA;
+$footer-bg0: #DFDFDF;
+$footer-bg1: #D8D8D8;
+
+html {
+    background-color: $background;
+    font-family: 'Quicksand', sans-serif;
+    color: $color-primary-4;
+}
+
+h1 {
+    font-family: 'Francois One', sans-serif;
+}
+
+.container {
+    position: relative;
+    top: 0px;
+    margin: auto;
+    padding: 0px;
+    width: 61.8%;
+    background-color: $content-bg;
+
+    @media screen and (max-width: 768px) {
+        width: 100%;
+    }
+
+    &.error {
+        h1 {
+            margin: 30px 0;
+            font-size: 4em;
+            line-height: 1;
+            letter-spacing: -1px;
+        }
+    }
+
+    header {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        background: linear-gradient($nav-bg, $navbar-bg);
+        color: $nav-color;
+
+        #mainHeader {
+            margin-left: 15px;
+
+            h1 {
+                font-family: 'Limelight', cursive;
+                font-size: 3em;
+                margin-bottom: 0;
+            }
+
+            h4 {
+                font-family: 'Quicksand', sans-serif;
+                margin-top: 0;
+            }
+        }
+
+        #logo {
+            width: 150px;
+            height: auto;
+        
+            @media screen and (max-width: 786px) {
+                display: none;
+                visibility: hidden;
+            }
+        }
+    }
+
+    nav {
+        position: relative;
+        top: 0;
+        width: 100%;
+        background-color: $navbar-bg;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+        
+        a {
+            padding: 15px;
+            background-color: $nav-elem;
+            color: $nav-color;
+            text-decoration: none;
+            font-weight: bold;
+            border-left: 2px solid $color-primary-1;
+            min-height: 1.2rem;
+            min-width: 1.2rem;
+
+            &:first-child {
+                border-left: none;
+            }
+
+            &.home {
+                font-weight: bolder;
+            }
+
+            &:hover {
+                background: linear-gradient($nav-hover, $nav-elem);
+            }
+        }
+
+        @media screen and (max-width: 768px){
+            flex-direction: column;
+            align-items: stretch;
+            a {
+                border-left: none;
+                border-bottom: 2px solid $color-primary-1;
+            }
+        }
+    }
+
+    .content {
+        position: relative; 
+        top: 0px;
+        padding: 15px;
+    }
+
+    footer {
+        // background-color: $footer-bg;
+        background: linear-gradient($footer-bg0, $footer-bg1);
+        padding: 15px;
+        padding-bottom: 30px;
+    }
+}
+
+#map {
+    min-height: 400px;
+    min-width: 600px;
+    width: 95%;
+    height: 100%;
+    max-height: 800px;
+    margin: auto;
+
+    @media screen and (max-width: 786px) {
+        min-width: 300px;
+    }
+}
+
+#register {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    
+    .separator {
+        position: relative; 
+        height: 15px;
+        display: block;
+    }
+
+    .form-group {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+
+        label {
+            font-family: 'Quicksand', sans-serif;
+            font-weight: bold;
+            font-size: 110%;
+            padding-left: 5px; 
+            margin-top: 10px;
+        }
+
+        .form-field {
+            border: 1px solid #ccc;
+            width: 100%;
+            border-radius: 3px;
+            overflow: hidden;
+            background-color: white;
+    
+            input[type="text"], select, button, input[type="submit"] {
+                margin-top: 2px;
+                font-family: 'Oxygen', sans-serif;
+                font-size: 20px;
+
+                width: calc(100% - 20px);
+                padding: 10px;
+                border: none;
+                box-shadow: none;
+                background: transparent;
+                background-image: none;
+                -webkit-appearance: none;
+                -moz-appearance: none;
+            }
+
+            #submit {
+                margin-top: 0px;
+                width: 100%;
+                height: 100%;
+                padding: 20px auto;
+                cursor: pointer;
+                text-decoration: none;
+                text-transform: uppercase;
+
+                color: $light-grey;
+                background: linear-gradient($color-primary-0, $color-primary-3);
+
+                transition-duration: 0.4s;
+                -webkit-transition-duration: 0.4s;
+            }
+
+            #submit:active {
+                background-color: $color-primary-2;
+            }
+
+            select {
+                background-image: $select-triangle;
+                background-repeat: no-repeat;
+                background-position: right center;
+            }
+            
+            select:focus {
+                outline: none;
+            }
+
+            select:-moz-focusring {
+                color: transparent;
+                text-shadow: 0 0 0 #000;
+            }
+        }
+    }
+}
