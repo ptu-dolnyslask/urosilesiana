@@ -13,7 +13,7 @@ skanem dowodu płatności na adres [{{site.contact_mail}}](mailto:{{site.contact
 > Bank: BGŻ BNP PARIBAS o/Trzebnica
 > Społeczny Komitet Rozwoju Urologii Dolnośląskiej \\
 > ul. Borowska 213 50-556 Wrocław \\
-> NIP: 8992806962 \\
+> NIP: 8992806962
 
 W tytule wpłaty wpisać "Urosilesiana XXV" i imię i nazwisko uczestniczki/uczestnika.
 			
