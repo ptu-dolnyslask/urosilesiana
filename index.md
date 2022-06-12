@@ -4,7 +4,7 @@ layout: default
 Urosilesiana XXV
 ===
 W imieniu Komitetu Organizacyjnego mamy przyjemność zaprosić Państwa na kolejną
-Konferencję Naukową Urologów z Dolnego i Górnego Śląska „Urosilesiana XXV”, która odbędzie się w dniach 30.09-02.10.2018 w Jeleniej Górze. 
+Konferencję Naukową Urologów z Dolnego i Górnego Śląska „Urosilesiana XXV”, która odbędzie się w dniach 30.09-02.10.2022 w Jeleniej Górze. 
 
 Honorowy patronat:
 ---
@@ -22,7 +22,7 @@ Komitet Naukowy
 ---
 Przewodniczący: dr hab. Janusz Dembowski prof. UM
 
-prof. dr hab. Tomasz Szydełko, prof. dr hab. Andrzej Paradysz, prof dr hab. Romuald Zdrojowy, prof. dr hab. Anna Kołodziej; prof dr hab. Wojciech Apoznański, dr hab. Bartosz Małkiewicz, dr hab. Piotr Bryniarski, dr hab. Wojciech Krajewski, dr hab. Marcin Życzkowski, dr Michał Wróbel
+prof. dr hab. Tomasz Szydełko, prof. dr hab. Andrzej Paradysz, prof dr hab. Romuald Zdrojowy, prof. dr hab. Anna Kołodziej, prof dr hab. Wojciech Apoznański, dr hab. Bartosz Małkiewicz, dr hab. Piotr Bryniarski, dr hab. Wojciech Krajewski, dr hab. Marcin Życzkowski, dr Michał Wróbel
 
 Komitet organizacyjny
 ---
