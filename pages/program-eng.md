@@ -32,10 +32,10 @@ Saturday, 01.10.2022
 * *Basics of urolithiasis diagnostics*, A. Czekaj, P. Piotrów, K. Ratajczyk, M. Fiutowski, M. Pietrus, F. Winkowski, K. Groszek, W. Bursiewicz, A. Fabiszewska, P. Kowal
 * *Intensified systemic treatment in patients undergoing radical treatment for non-metastaic prostatę cancer*, Paweł Rajwa
 * *Assesement of men’s knowledge about testicular malignant neoplasms in the survey  conducted as part of the campaign Movember 2020*, Jakub Ryszawy
-* *Transperineal fusion biopsy - single center experience*, Ł. Nowak
-* *Mini and ultramini RECIRS*, J. Chorbińska, dr hab. W. Krajewski
-* *The influence of non-invasive bladder cancer on sexual function*, M. Mazur
-* *The impact of using virtual reality devices on pain and anxiety in patients undergoing urological procedures performed under local anesthesia or without anesthesia*, M. Łuczak
+* *Transperineal fusion biopsy - single center experience*, Ł. Nowak, P.Stelmach, A.Radecki, P.Dębiński, B.Małkiewicz, T.Szydełko
+* *Mini and ultramini ECIRS*, J. Chorbińska, W. Krajewski, D.Janczak, M.Kosiński, T.Szydełko
+* *The influence of non-invasive bladder cancer on sexual function*, M. Mazur, W.Krajewski, K.Galik, J.Dembowski, A.Kołodziej, T.Szydełko
+* *The impact of using virtual reality devices on pain and anxiety in patients undergoing urological procedures performed under local anesthesia or without anesthesia*, M.Łuczak, W.Krajewski, A.Pietrowski, R.Zdrojowy, T.Szydełko
 
 ### 11:00 – 13:00
 #### Sesja III: „Stone on stone…” Urolithiasis
@@ -56,7 +56,7 @@ Saturday, 01.10.2022
 #### Session IV: „Unusual everyday life”
 **Moderators**: dr hab. Bartosz Małkiewicz, dr Michał Wróbel
 
-* *Therapeutic management in patients after radical prostatectomy with lymphadenectomy*, P. Kiełb, K. Kowalczyk
+* *Therapeutic management in pN+ patients after radical prostatectomy with lymphadenectomy*, P.Kiełb, B.Małkiewicz, K.Kowalczyk, A.Gurwin, A.Kruczek, R.Zdrojowy, T.Szydełko
 * *The urinal will tell you the truth – electronic urinal for population study of micturition disorders*, Michał Wróbel, Łukasz Konarski, Artem Balashov, Michał Wronecki, Michalina Ignaś, Marcin Łobodziński
 * *Phone call*, Radosław Piszczek, Arnold Karbowski, Filip Czerwiński, Maciej Lenartowski
 * *Intra-abdominal urine drainage after radical cystectomy assisted by the da Vinci robot – pesentation of the technique*, K.Ratajczyk, M. Fiutowski, A. Czekaj, M. Trzciniecki, A. Fabiszewska, P. Piotrów, P. Kowal

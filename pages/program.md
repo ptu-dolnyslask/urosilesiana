@@ -33,10 +33,10 @@ Sobota, 01.10.2022
 * *Podstawy diagnostyki kamicy moczowej*, A. Czekaj, P. Piotrów, K. Ratajczyk, M. Fiutowski, M. Pietrus, F. Winkowski, K. Groszek, W. Bursiewicz, A. Fabiszewska, P. Kowal
 * *Zintensyfikowane leczenie systemowe u pacjentów poddawanych leczeniu radykalnemu z powodu nieprzerzutowego raka gruczołu krokowego*, Paweł Rajwa
 * *Ocena wiedzy mężczyzn na temat nowotworów złośliwych jądra w badaniu ankietowym przeprowadzonym w ramach akcji Movember 2020*, Jakub Ryszawy
-* *Przezkroczowa biopsja fuzyjna- doświadczenia ośrodka*, Ł. Nowak
-* *Mini i ultramini RECIRS*, J. Chorbińska, dr hab. W. Krajewski
-* *Wpływ nieinwazyjnego raka pęcherza moczowego na funkcje seksualne*, M. Mazur
-* *Wpływ stosowania urządzeń do wirtualnej rzeczywistości na dolegliwości bólowe i lęk u chorych poddawanych zabiegom urologicznym przeprowadzanym w znieczuleniu miejscowym lub bez znieczulenia*, M.Łuczak
+* *Przezkroczowa biopsja fuzyjna- doświadczenia ośrodka*, Ł. Nowak, P.Stelmach, A.Radecki, P.Dębiński, B.Małkiewicz, T.Szydełko
+* *Mini i ultramini ECIRS*, J. Chorbińska, W. Krajewski, D.Janczak, M.Kosiński, T.Szydełko
+* *Wpływ nieinwazyjnego raka pęcherza moczowego na funkcje seksualne*, M. Mazur, W.Krajewski, K.Galik, J.Dembowski, A.Kołodziej, T.Szydełko
+* *Wpływ stosowania urządzeń do wirtualnej rzeczywistości na dolegliwości bólowe i lęk u chorych poddawanych zabiegom urologicznym przeprowadzanym w znieczuleniu miejscowym lub bez znieczulenia*, M.Łuczak, W.Krajewski, A.Pietrowski, R.Zdrojowy, T.Szydełko
 
 ### 11:00 – 13:00
 #### Sesja III: „Kamień na kamieniu…” Kamica układu moczowego
@@ -57,7 +57,7 @@ Sobota, 01.10.2022
 #### Sesja IV: „Niecodzienna codzienność”
 **Przewodniczący**: dr hab. Bartosz Małkiewicz, dr Michał Wróbel
 
-* *Postępowanie terapeutyczne u chorych po radykalnej prostatectomii z limfadenectomią*, P. Kiełb, K. Kowalczyk, 
+* *Postępowanie terapeutyczne u chorych pN+ po radykalnej prostatektomii z limfadenektomią*, P.Kiełb, B.Małkiewicz, K.Kowalczyk, A.Gurwin, A.Kruczek, R.Zdrojowy, T.Szydełko
 * *Pisuar prawdę ci powie – elektroniczny pisuar do populacyjnego badania zaburzeń mikcji*, Michał Wróbel, Łukasz Konarski, Artem Balashov, Michał Wronecki, Michalina Ignaś, Marcin Łobodziński
 * *Telefon*, Radosław Piszczek, Arnold Karbowski, Filip Czerwiński, Maciej Lenartowski
 * *Wewnątrzbrzuszne odprowadzenia moczu po cystektomii radykalnej w asyście robota da Vinci – prezentacja techniki*, K.Ratajczyk, M. Fiutowski, A. Czekaj, M. Trzciniecki, A. Fabiszewska, P. Piotrów, P. Kowal
