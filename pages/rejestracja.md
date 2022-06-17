@@ -21,6 +21,7 @@ Koszt uczestnictwa
 ---
 * 1100 zł – zakwaterowanie w pokoju dwuosobowym
 * 1500 zł – zakwaterowanie w pokoju jednoosobowym
+* 900 zł - osoby towarzyszące
 
 Formularz zgłoszeniowy
 ---
