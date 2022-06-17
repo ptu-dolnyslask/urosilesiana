@@ -19,8 +19,8 @@ W tytule wpłaty wpisać "Urosilesiana XXV" i imię i nazwisko uczestniczki/ucze
 			
 Koszt uczestnictwa
 ---
-* 1100 zł – uczestnictwa w Konferencji, zakwaterowanie w pokoju dwuosobowym, wyżywienie
-* 1500 zł – uczestnictwa w Konferencji, zakwaterowanie w pokoju jednoosobowym, wyżywienie
+* 1100 zł – uczestnictwo w Konferencji, zakwaterowanie w pokoju dwuosobowym, wyżywienie
+* 1500 zł – uczestnictwo w Konferencji, zakwaterowanie w pokoju jednoosobowym, wyżywienie
 * 900 zł - osoby towarzyszące (zakwaterowanie, wyżywienie)
 
 Formularz zgłoszeniowy
