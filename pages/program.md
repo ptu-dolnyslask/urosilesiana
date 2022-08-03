@@ -38,7 +38,10 @@ Sobota, 01.10.2022
 * *Wpływ nieinwazyjnego raka pęcherza moczowego na funkcje seksualne*, M. Mazur, W.Krajewski, K.Galik, J.Dembowski, A.Kołodziej, T.Szydełko
 * *Wpływ stosowania urządzeń do wirtualnej rzeczywistości na dolegliwości bólowe i lęk u chorych poddawanych zabiegom urologicznym przeprowadzanym w znieczuleniu miejscowym lub bez znieczulenia*, M.Łuczak, W.Krajewski, A.Pietrowski, R.Zdrojowy, T.Szydełko
 
-### 11:00 – 13:00
+### 11:00 - 11:15
+#### Sesja promocyjna firmy Janssen
+
+### 11:15 – 13:15
 #### Sesja III: „Kamień na kamieniu…” Kamica układu moczowego
 **Przewodniczący**: dr hab. Piotr Bryniarski, dr hab. Wojciech Krajewski, dr Arnold Karbowski
 
@@ -50,7 +53,7 @@ Sobota, 01.10.2022
 * *HALS – Własny sposób użycia lasera i ssania w klasycznym PCNL*, Michał Wróbel, Łukasz Konarski, Wojciech Krajewski
 * *Wybrane praktyczne aspekty leczenia kamicy nerek metodą supine PCNL w Oddziale Urologicznym WSS nr 3 w Rybniku*, Marcin Bębenek, Grzegorz Prokopowicz, Krzysztof Nowakowski, Andrzej Potyka
 
-### 13:00 – 14:00
+### 13:15 – 14:00
 #### Przerwa obiadowa
 
 ### 14:00 – 16:00

@@ -9,9 +9,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    eventmachine (1.2.7-x64-mingw32)
-    ffi (1.15.5)
-    ffi (1.15.5-x64-mingw32)
+    ffi (1.15.5-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
     i18n (0.9.5)
@@ -57,14 +55,14 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.5)
-    rouge (3.28.0)
+    rouge (3.30.0)
     safe_yaml (1.0.5)
     sass (3.7.4)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    tzinfo (2.0.4)
+    tzinfo (2.0.5)
       concurrent-ruby (~> 1.0)
     tzinfo-data (1.2022.1)
       tzinfo (>= 1.0.0)
@@ -72,12 +70,10 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
-  ruby
-  x64-mingw32
+  x64-mingw-ucrt
 
 DEPENDENCIES
   jekyll (~> 3.9)
-  jekyll-feed (~> 0.6)
   kramdown-parser-gfm
   minima (~> 2.0)
   tzinfo-data
@@ -85,4 +81,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   1.16.1
+   2.3.19
