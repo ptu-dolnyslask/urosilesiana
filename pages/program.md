@@ -17,7 +17,7 @@ prof. dr hab. Jerzy Lorenz; prof. dr hab. Mieczysław Fryczkowski; prof dr hab. 
 
 * *Wytyczne EAU*, dr hab. Bartosz Małkiewicz
 * *Enzalutamid*, dr hab. Bartosz Małkiewicz
-* *Darolutamid*, Marcin Ekiert
+* *Darolutamid*, dr Marcin Ekiert
 * *Apalutamid*, dr hab. Marcin Życzkowski
 * **Dyskusja**
 * *Podsumowanie: jak wykorzystać nowoczesne leki w leczeniu systemowym raka stercza*, prof. dr hab. Tomasz Szydełko
@@ -44,6 +44,7 @@ Sobota, 01.10.2022
 
 * *Diagnostyka metaboliczna kamicy*, dr hab. Piotr Bryniarski
 * *Co nowego w diagnostyce obrazowej kamicy układu moczowego*, Witalij Kowalczuk, Michał Wróbel, Ewa Wróbel, Anna Kołodziej, Arnold Karbowski, Wojciech Tomkalski
+* *Pielonefrolitotomia - operacja archaiczna???*, prof. dr hab. Krzysztof Bar
 * *ESWL – pieśń przeszłości?*, Maciej Wołkowiecki Michał Wróbel, Zenona Jabłońska, Jacek Kłak, Szymon Zapołoch
 * *RIRS – QUO VADIS?*, A. Czekaj, P. Piotrów, K. Ratajczyk, M. Fiutowski, M. Pietrus, F. Winkowski, K. Groszek, W. Bursiewicz, A. Fabiszewska, P. Kowal
 * *Systemy ssące podczas PCNL? - TAK!!!*, P. Piotrów, A. Czekaj, K. Ratajczyk, M. Fiutowski, M. Pietrus, F. Winkowski, K. Groszek, W. Bursiewicz, A. Fabiszewska, P. Kowal

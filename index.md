@@ -22,7 +22,7 @@ Komitet Naukowy
 ---
 Przewodniczący: dr hab. Janusz Dembowski prof. UM
 
-prof. dr hab. Tomasz Szydełko, prof. dr hab. Andrzej Paradysz, prof dr hab. Romuald Zdrojowy, prof. dr hab. Anna Kołodziej, prof dr hab. Wojciech Apoznański, dr hab. Bartosz Małkiewicz, dr hab. Piotr Bryniarski, dr hab. Wojciech Krajewski, dr hab. Marcin Życzkowski, dr Michał Wróbel
+prof. dr hab. Tomasz Szydełko, prof. dr hab. Andrzej Paradysz, prof dr hab. Romuald Zdrojowy, prof. dr hab. Anna Kołodziej, prof dr hab. Wojciech Apoznański, prof. dr hab. Krzysztof Bar, dr hab. Bartosz Małkiewicz, dr hab. Piotr Bryniarski, dr hab. Wojciech Krajewski, dr hab. Marcin Życzkowski, dr Michał Wróbel
 
 Komitet organizacyjny
 ---

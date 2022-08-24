@@ -17,7 +17,7 @@ prof. dr hab. Jerzy Lorenz; prof. dr hab. Mieczysław Fryczkowski; prof. dr hab.
 
 * *EAU guidelines*, dr hab. Bartosz Małkiewicz
 * *Enzalutamid*, dr hab. Bartosz Małkiewicz
-* *Darolutamid*, Marcin Ekiert
+* *Darolutamid*, dr Marcin Ekiert
 * *Apalutamid*, dr hab. Marcin Życzkowski
 * **Discussion**
 * *Summary: how to use modern drugs in the systemic treatment of prostate cancer*, prof. dr hab. Tomasz Szydełko
@@ -43,6 +43,7 @@ Saturday, 01.10.2022
 
 * *Metabolic diagnosis of urolithiasis*, dr hab. Piotr Bryniarski
 * *What’s new in the imaging diagnostics of urolithiasis*, Witalij Kowalczuk, Michał Wróbel, Ewa Wróbel, Anna Kołodziej, Arnold Karbowski, Wojciech Tomkalski
+* *Pielonefrolitotomia - operacja archaiczna???*, prof. dr hab. Krzysztof Bar
 * *ESWL – yesterday's news?*, Maciej Wołkowiecki Michał Wróbel, Zenona Jabłońska, Jacek Kłak, Szymon Zapołoch
 * *RIRS – QUO VADIS?*, A. Czekaj, P. Piotrów, K. Ratajczyk, M. Fiutowski, M. Pietrus, F. Winkowski, K. Groszek, W. Bursiewicz, A. Fabiszewska, P. Kowal
 * *Suction systems during PCNL? - YES!!!*, P. Piotrów, A. Czekaj, K. Ratajczyk, M. Fiutowski, M. Pietrus, F. Winkowski, K. Groszek, W. Bursiewicz, A. Fabiszewska, P. Kowal
