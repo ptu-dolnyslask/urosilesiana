@@ -30,6 +30,16 @@ Przewodniczący: prof. dr hab. Romuald Zdrojowy
 
 dr hab. Janusz Dembowski prof. UM, Michał Wróbel, Bartosz Małkiewicz, Zenona Jabłońska, Marek Górecki, Paweł Kowal, Jarosław Lewandowski, Krzysztof Tupikowski, Arnold Karbowski, Maciej Lenartowski, Radosław Piszczek, Wojciech Tomkalski, Szymon Zapołoch, Maciej Wołkowiecki, Danuta Musioł, Edyta Chamioło-Sołtysik, Krystyna Baszak
 
+Sponsorzy
+---
+
+{% include sponsors.html %}
+
+* **Janssen**
+* **Astellas**
+* **Bayer**
+* **Coloplast**
+
 Ceryfikaty
 ---
 

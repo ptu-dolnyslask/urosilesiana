@@ -37,8 +37,11 @@ Saturday, 01.10.2022
 * *The influence of non-invasive bladder cancer on sexual function*, M. Mazur, W.Krajewski, K.Galik, J.Dembowski, A.Kołodziej, T.Szydełko
 * *The impact of using virtual reality devices on pain and anxiety in patients undergoing urological procedures performed under local anesthesia or without anesthesia*, M.Łuczak, W.Krajewski, A.Pietrowski, R.Zdrojowy, T.Szydełko
 
-### 11:00 – 13:00
-#### Sesja III: „Stone on stone…” Urolithiasis
+### 11:00 - 11:15
+#### Sponsored session - Janssen
+
+### 11:155 – 13:00
+#### Session III: „Stone on stone…” Urolithiasis
 **Moderators**: dr hab. Piotr Bryniarski, dr hab. Wojciech Krajewski, dr Arnold Karbowski
 
 * *Metabolic diagnosis of urolithiasis*, dr hab. Piotr Bryniarski

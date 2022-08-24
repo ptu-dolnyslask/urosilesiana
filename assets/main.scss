@@ -168,6 +168,16 @@ h1 {
     }
 }
 
+.sponosor-logos {
+    display: flex;
+
+    gap: 10px;
+
+    > img {
+        max-height: 100px;
+    }
+}
+
 #register {
     display: flex;
     flex-direction: column;
