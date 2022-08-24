@@ -59,7 +59,7 @@ Sobota, 01.10.2022
 
 ### 14:00 – 16:00
 #### Sesja IV: „Niecodzienna codzienność”
-**Przewodniczący**: dr hab. Bartosz Małkiewicz, dr Michał Wróbel
+**Przewodniczący**: dr hab. Bartosz Małkiewicz, prof. dr hab. Krzysztof Bar, dr Michał Wróbel
 
 * *Postępowanie terapeutyczne u chorych pN+ po radykalnej prostatektomii z limfadenektomią*, P.Kiełb, B.Małkiewicz, K.Kowalczyk, A.Gurwin, A.Kruczek, R.Zdrojowy, T.Szydełko
 * *Pisuar prawdę ci powie – elektroniczny pisuar do populacyjnego badania zaburzeń mikcji*, Michał Wróbel, Łukasz Konarski, Artem Balashov, Michał Wronecki, Michalina Ignaś, Marcin Łobodziński

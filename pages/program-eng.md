@@ -58,7 +58,7 @@ Saturday, 01.10.2022
 
 ### 14:00 – 16:00
 #### Session IV: „Unusual everyday life”
-**Moderators**: dr hab. Bartosz Małkiewicz, dr Michał Wróbel
+**Moderators**: dr hab. Bartosz Małkiewicz, prof. dr hab. Krzysztof Bar, dr Michał Wróbel
 
 * *Therapeutic management in pN+ patients after radical prostatectomy with lymphadenectomy*, P.Kiełb, B.Małkiewicz, K.Kowalczyk, A.Gurwin, A.Kruczek, R.Zdrojowy, T.Szydełko
 * *The urinal will tell you the truth – electronic urinal for population study of micturition disorders*, Michał Wróbel, Łukasz Konarski, Artem Balashov, Michał Wronecki, Michalina Ignaś, Marcin Łobodziński
