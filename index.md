@@ -6,6 +6,8 @@ Urosilesiana XXV
 W imieniu Komitetu Organizacyjnego mamy przyjemność zaprosić Państwa na kolejną
 Konferencję Naukową Urologów z Dolnego i Górnego Śląska „Urosilesiana XXV”, która odbędzie się w dniach 30.09-02.10.2022 w Jeleniej Górze. 
 
+**Za udział w konferencji przyznawane jest 12 punktów CME-CPD** [PDF]({{ site.baseurl }}/assets/CME-CPD_XXV_UROSILESIANA.pdf)
+
 Honorowy patronat:
 ---
 prof. dr hab. Tomasz Szydełko, Konsultant Krajowy ds. Urologii
@@ -39,6 +41,21 @@ Sponsorzy
 * **Astellas**
 * **Bayer**
 * **Coloplast**
+* **Magnus**
+* **Baxter**
+* **Corza Medical**
+* **Ipsen**
+* **Varimed**
+* **Aurovitas**
+* **MIP-Pharma**
+* **Synoptis**
+* **Plus Pharma**
+* **Karl Storz**
+* **Olympus**
+* **Meden Inmed**
+* **Gerot-Lannach**
+* **Recordati**
+* **EP-P**
 
 Ceryfikaty
 ---
