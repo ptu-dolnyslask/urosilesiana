@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
+
 Agenda for {{site.title}}
 ===
 
+{% if 0 != 0 %}
 Friday, 30.09.2022
 ---
 
@@ -79,3 +81,5 @@ Sunday, 02.10.2022
 * *Wounds in chronic diseases*, Szymon Zapołoch
 * *Chronic wound treatment strategy*, Joanna Sulgostowska 
 * *Clean intermittent self-catheterization*, Filip Czerwiński, Szymon Zapołoch, Maciej Wołkowiecki
+
+{% endif %}

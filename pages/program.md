@@ -1,9 +1,13 @@
 ---
 layout: default
 ---
+
 Program Konferencji {{site.title}}
 ===
 
+Program konferencji zostanie przedstawiony w późniejszym terminie.
+
+{% if 0 != 0 %}
 Piątek, 30.09.2022
 ---
 
@@ -81,3 +85,4 @@ Niedziela, 02.10.2022
 * *Strategia leczenia ran przewlekłych*, Joanna Sulgostowska
 * *Czyste przerywane samocewnikowanie*, Filip Czerwiński, Szymon Zapołoch, Maciej Wołkowiecki
 
+{% endif %}

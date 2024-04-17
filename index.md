@@ -1,12 +1,14 @@
 ---
 layout: default
 ---
-Urosilesiana XXV
+{{site.title}}
 ===
 W imieniu Komitetu Organizacyjnego mamy przyjemność zaprosić Państwa na kolejną
 Konferencję Naukową Urologów z Dolnego i Górnego Śląska „Urosilesiana XXV”, która odbędzie się w dniach 30.09-02.10.2022 w Jeleniej Górze. 
 
+{% if 0 != 0 %}
 **Za udział w konferencji przyznawane jest 12 punktów CME-CPD** [PDF]({{ site.baseurl }}/assets/CME-CPD_XXV_UROSILESIANA.pdf)
+{% endif %}
 
 Honorowy patronat:
 ---
@@ -32,6 +34,7 @@ Przewodniczący: prof. dr hab. Romuald Zdrojowy
 
 dr hab. Janusz Dembowski prof. UM, Michał Wróbel, Bartosz Małkiewicz, Zenona Jabłońska, Marek Górecki, Paweł Kowal, Jarosław Lewandowski, Krzysztof Tupikowski, Arnold Karbowski, Maciej Lenartowski, Radosław Piszczek, Wojciech Tomkalski, Szymon Zapołoch, Maciej Wołkowiecki, Danuta Musioł, Edyta Chamioło-Sołtysik, Krystyna Baszak
 
+{% if 0 != 0 %}
 Sponsorzy
 ---
 
@@ -63,3 +66,5 @@ Ceryfikaty
 Konferencja pomyślnie przeszła certyfikacje:
 * Infarma [PDF]({{ site.baseurl }}/assets/Certyfikat_Infarma.pdf)
 * SOWE [PDF]({{ site.baseurl }}/assets/Certyfikat_SOWE_MedTech.pdf)
+
+{% endif %}
