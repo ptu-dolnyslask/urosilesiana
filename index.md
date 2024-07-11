@@ -4,7 +4,7 @@ layout: default
 {{site.title}}
 ===
 W imieniu Komitetu Organizacyjnego mamy przyjemność zaprosić Państwa na kolejną
-Konferencję Naukową Urologów z Dolnego i Górnego Śląska „Urosilesiana XXV”, która odbędzie się w dniach 30.09-02.10.2022 w Jeleniej Górze. 
+Konferencję Naukową Urologów z Dolnego i Górnego Śląska „Urosilesiana XXVII”, która odbędzie się w dniach 13.09-15.09.2024 w Jeleniej Górze. 
 
 {% if 0 != 0 %}
 **Za udział w konferencji przyznawane jest 12 punktów CME-CPD** [PDF]({{ site.baseurl }}/assets/CME-CPD_XXV_UROSILESIANA.pdf)
