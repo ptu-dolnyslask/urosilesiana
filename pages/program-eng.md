@@ -5,81 +5,78 @@ layout: default
 Agenda for {{site.title}}
 ===
 
-{% if 0 != 0 %}
-Friday, 30.09.2022
----
+## Friday 13.09.2024
 
-### 16:45 
+### 16:50
 #### Opening of the conference
-prof. dr hab. Jerzy Lorenz; prof. dr hab. Mieczysław Fryczkowski; prof. dr hab. Janusz Dembowski; prof. dr hab. Andrzej Paradysz, prof. dr hab. Romuald Zdrojowy
+dr hab. Janusz Dembowski, prof. UMW; prof. dr hab. Tomasz Szydełko; prof. dr hab. Andrzej Paradysz; dr hab. Marcin Życzkowski, prof. UO; dr Michał Wróbel
 
 ### 17:00 – 20:00
-#### Session I: Systemic therapy of prostate cancer – present and future
-**Moderators**: prof. dr hab. Tomasz Szydełko, prof. dr hab. Andrzej Paradysz
+#### Session I Urological oncology
+**Moderators**: dr hab. Bartosz Małkiewicz, prof. UMW; dr hab. Marcin Życzkowski, prof. UO; dr hab. Anna Kołodziej, prof. UMW
 
-* *EAU guidelines*, dr hab. Bartosz Małkiewicz
-* *Enzalutamid*, dr hab. Bartosz Małkiewicz
-* *Darolutamid*, dr Marcin Ekiert
-* *Apalutamid*, dr hab. Marcin Życzkowski
-* **Discussion**
-* *Summary: how to use modern drugs in the systemic treatment of prostate cancer*, prof. dr hab. Tomasz Szydełko
+1. *Bladder-sparing treatment. Trimodal therapy*, dr hab. Anna Kołodziej, prof. UMW
+2. *Management of the perioperative period in a patient with MIUC with a high risk of recurrence - interdisciplinary cooperation*, dr hab. Anna Kołodziej, prof. UMW, Sponsored lecture
+3. *The role of urologist-oncologist cooperation in patients with urothelial cancer*, prof. dr hab. Wojciech Krajewski; dr Zbyszko Chowaniec, Sponsored lecture
+4. *Individualized approach to hormonal treatment of prostate cancer, taking into account cardiovascular risk*, Sponsored lecture
+5. *LHRH antagonists – is this the new ADT standard? New therapeutic option*, dr hab. Bartosz Małkiewicz, prof. UMW, Sponsored lecture
+6. *Enzalutamide and other therapeutic options in patients with castration-resistant prostate cancer (mCRPC) - recommendations, practice and new products in the drug program B56*, prof. dr hab. Tomasz Szydełko, Sponsored lecture
+7. *Current treatment options for patients with prostate cancer, with particular emphasis on the use of darolutamide in the nmCRPC and mHSPC stages*, dr Zbyszko Chowaniec, Sponsored lecture
 
-Saturday, 01.10.2022
----
+## Saturday 14/09/2024
 
-### 9:00 – 11:00
-#### Session II: „There goes youth” Session of young urologists
-**Moderators**: prof dr hab. Janusz Dembowski, prof dr hab. Anna Kołodziej, dr Radosław Piszczek
+### 8:30 – 9:45
+#### Session II Cancer diagnosis
+**Moderators**: dr hab. Marcin Życzkowski, prof. UO; prof. dr hab. Romuald Zdrojowy; dr hab. Krzysztof Tupikowski
 
-* *Basics of urolithiasis diagnostics*, A. Czekaj, P. Piotrów, K. Ratajczyk, M. Fiutowski, M. Pietrus, F. Winkowski, K. Groszek, W. Bursiewicz, A. Fabiszewska, P. Kowal
-* *Intensified systemic treatment in patients undergoing radical treatment for non-metastaic prostatę cancer*, Paweł Rajwa
-* *Assesement of men’s knowledge about testicular malignant neoplasms in the survey  conducted as part of the campaign Movember 2020*, Jakub Ryszawy
-* *Transperineal fusion biopsy - single center experience*, Ł. Nowak, P.Stelmach, A.Radecki, P.Dębiński, B.Małkiewicz, T.Szydełko
-* *Mini and ultramini ECIRS*, J. Chorbińska, W. Krajewski, D.Janczak, M.Kosiński, T.Szydełko
-* *The influence of non-invasive bladder cancer on sexual function*, M. Mazur, W.Krajewski, K.Galik, J.Dembowski, A.Kołodziej, T.Szydełko
-* *The impact of using virtual reality devices on pain and anxiety in patients undergoing urological procedures performed under local anesthesia or without anesthesia*, M.Łuczak, W.Krajewski, A.Pietrowski, R.Zdrojowy, T.Szydełko
+1. *First experience with the Exact Vue system for prostate fusion biopsy with micro ultrasound*, Jakub Wojnarowicz
+2. *The degree of malignancy of lesions detected in fusion biopsy depending on the PIRADS degree described in magnetic resonance imaging*, Mariusz Sadowski; dr hab. Igal Mor; Michał Białocyt
+3. *mpMRI for Dummies*, Wiktor Bursiewicz.
+4. *Protocol for preparation for transperineal and transrectal biopsy in 2024*, Łukasz Nowak
+5. *Cytokeratins in follow-up after treatment of intermediate-risk non-muscle-invasive bladder cancers*, Michał Wróbel
+6. *UTUC and the Lynch team – a new version of an old relationship*, Jan Łaszkiewicz
 
-### 11:00 - 11:15
-#### Sponsored session - Janssen
+### 9:45 – 11:15
+#### Session III Stone disease, infections, micturition disorders, urinary incontinence
+**Moderators**: prof. dr hab. Wojciech Krajewski; dr Tadeusz Niezgoda; dr Krzysztof Ratajczyk
 
-### 11:155 – 13:00
-#### Session III: „Stone on stone…” Urolithiasis
-**Moderators**: dr hab. Piotr Bryniarski, dr hab. Wojciech Krajewski, dr Arnold Karbowski
+1. *Disorders of acid-base metabolism as a cause of kidney stones on the example of tubular acidosis*, dr hab. Piotr Bryniarski, prof. SUM
+2. *Infections in patients with irremovable foreign bodies in the urinary tract*, prof. dr hab. Wojciech Krajewski
+3. *Causes of obstruction of nephrostomy drains - preliminary analysis*, Michał Iwanicki; Marek Olesz
+4. *Analysis of encrustation and elasticity of "double J" catheters implanted after URSL and RIRS procedures*, Mateusz Piątek; Jakub Hobot
+5. *Determination of the chemical composition of the stone – why, when, how?*, Wojciech Tomczak
+6. *Holmium laser and thulium fiber laser - which laser for which treatments*, Łukasz Nowak
 
-* *Metabolic diagnosis of urolithiasis*, dr hab. Piotr Bryniarski
-* *What’s new in the imaging diagnostics of urolithiasis*, Witalij Kowalczuk, Michał Wróbel, Ewa Wróbel, Anna Kołodziej, Arnold Karbowski, Wojciech Tomkalski
-* *Pielonefrolitotomia - operacja archaiczna???*, prof. dr hab. Krzysztof Bar
-* *ESWL – yesterday's news?*, Maciej Wołkowiecki Michał Wróbel, Zenona Jabłońska, Jacek Kłak, Szymon Zapołoch
-* *RIRS – QUO VADIS?*, A. Czekaj, P. Piotrów, K. Ratajczyk, M. Fiutowski, M. Pietrus, F. Winkowski, K. Groszek, W. Bursiewicz, A. Fabiszewska, P. Kowal
-* *Suction systems during PCNL? - YES!!!*, P. Piotrów, A. Czekaj, K. Ratajczyk, M. Fiutowski, M. Pietrus, F. Winkowski, K. Groszek, W. Bursiewicz, A. Fabiszewska, P. Kowal
-* *HALS – Our own way to use laser and suction in the classic PCNL*, Michał Wróbel, Łukasz Konarski, Wojciech Krajewski
-* *Practical aspects of treating kidney stones with the supine PCNL in Urological Ward WSS nr 3 in Rybnik*, Marcin Bębenek, Grzegorz Prokopowicz, Krzysztof Nowakowski, Andrzej Potyka
+### 11:15 – 13:00
+#### Session IV Andrology, endocrinology
+**Moderators**: dr hab. Anna Kołodziej prof. WUM; dr hab. Piotr Bryniarski; dr Paweł Piotrów
+
+1. *The role of extracorporeal shock wave therapy in andrology*. Joanna Chorbińska
+2. *Dietary supplements in the treatment of male infertility*. Michał Wróbel; Wojciech Tomkalski
+3. *Testosetron treatment, indications, contraindications, pitfalls*, Paweł Stelmach
+4. *Management of accidentally detected adrenal gland lesions (incidentaloma) - European guidelines 2023 and new reports*, Aleksandra Zdrojowy-Wełna
+5. *Pharmacotherapy of benign prostatic hyperplasia in accordance with EAU guidelines*, Michał Wróbel; Sebastian Fedorowicz
+6. *Self-catheterization in bladder emptying disorders*, prof. dr hab. Wojciech Krajewski; Jolanta Budrewicz
+7. *What's new in the treatment of urinary incontinence? EAU guidelines*, dr hab. Anna Kołodziej, prof. UMW
+8. *How and when to implant AMS 800 in women - when is it the right course of action*, dr hab. Tomasz Szopiński
 
 ### 13:00 – 14:00
-#### Lunch
+#### Lunch break
 
-### 14:00 – 16:00
-#### Session IV: „Unusual everyday life”
-**Moderators**: dr hab. Bartosz Małkiewicz, prof. dr hab. Krzysztof Bar, dr Michał Wróbel
+### 14:00 – 15:30
+#### Session V Varia
+**Moderators**: dr Adrian Czekaj; dr Michał Wróbel; dr Paweł Dębiński
+1. *Cryotherapy for kidney tumors - qualification criteria*, prof. dr hab. Wojciech Krajewski
+2. *Transvesical RARP using Hood Technique - is it worth it?*, Adrian Czekaj
+3. *Painful Bladder Syndrome*, Michał Pietrus
+4. *Pudendal neuropathy from the perspective of a urologist - theoretical basis, diagnosis and treatment*, Adrian Czekaj; Wiktor Bursiewicz
 
-* *Therapeutic management in pN+ patients after radical prostatectomy with lymphadenectomy*, P.Kiełb, B.Małkiewicz, K.Kowalczyk, A.Gurwin, A.Kruczek, R.Zdrojowy, T.Szydełko
-* *The urinal will tell you the truth – electronic urinal for population study of micturition disorders*, Michał Wróbel, Łukasz Konarski, Artem Balashov, Michał Wronecki, Michalina Ignaś, Marcin Łobodziński
-* *Phone call*, Radosław Piszczek, Arnold Karbowski, Filip Czerwiński, Maciej Lenartowski
-* *Intra-abdominal urine drainage after radical cystectomy assisted by the da Vinci robot – pesentation of the technique*, K.Ratajczyk, M. Fiutowski, A. Czekaj, M. Trzciniecki, A. Fabiszewska, P. Piotrów, P. Kowal
-* *Radical prostatectmy and continence – surgical aspects*, K. Ratajczyk, A. Czekaj, M. Fiutowski, M. Pietrus, F. Winkowski, A. Fabiszewska, K. Groszek, W. Bursiewicz, P. Piotrów,  P.Kowal
-* *Microsugery in the treatment of varicocele.*, A. Czekaj, K. Ratajczyk, P. Piotrów, M. Fiutowski, M. Pietrus, F. Winkowski, K. Groszek, W. Bursiewicz, A. Fabiszewska, P.Kowal
-
-Sunday, 02.10.2022
----
-
+## Sunday 15.09.2024
 ### 9:00 – 12:00
-#### Session V: Treatment of chronic wounds
-**Moderators**: Joanna Sulgostowska, Szymon Zapołoch, Danuta Musioł, Edyta Chamioło-Sołtysik, Krystyna Baszak
+#### Session VI Patient's Rights
+**Moderators**: dr Zenona Jabłońska; mgr Edyta Chamioło-Sołtysik; dr Krystyna Baszak; mgr Celina Drozd, mgr Beata Gancarz, mgr Martyna Suchojad
 
-* *Pathophysiology of wound healing*, Szymon Zapołoch
-* *Used in the treatment of chronic wounds*, Joanna Sulgostowska
-* *Wounds in chronic diseases*, Szymon Zapołoch
-* *Chronic wound treatment strategy*, Joanna Sulgostowska 
-* *Clean intermittent self-catheterization*, Filip Czerwiński, Szymon Zapołoch, Maciej Wołkowiecki
-
-{% endif %}
+1. *Patient's Rights - when we violate them without even being aware of it...*, Zenona Jabłońska; Michał Wróbel
+2. *Execution of medical orders by a nurse under legal acts*, Elżbieta Prus
+3. *Patient rights based on the Codes of Professional Ethics and the Act on the Nursing and Midwifery Profession and the Act on the Medical Profession*: Arleta Zarzeczna; Ewa Stypułkowska; Paulina Masłyk
+4. *Do we know the Patient's Rights - Quiz*, Michał Wróbel

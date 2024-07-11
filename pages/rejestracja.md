@@ -7,7 +7,7 @@ Rejestracja
 
 Warunki uczestnictwa
 ---
-Warunkiem uczestnictwa jest zgłoszenie i opłacenie uczestnictwa do 30.06.2024 -- przesłanie maila ze
+Warunkiem uczestnictwa jest zgłoszenie i opłacenie uczestnictwa do 16.08.2024 -- przesłanie maila ze
 skanem dowodu płatności na adres [{{site.contact_mail}}](mailto:{{site.contact_mail}}).
 
 > __Polskie Towarzystwo Urologiczne O. Dolnośląski__ \\

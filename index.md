@@ -24,15 +24,15 @@ Organizatorzy:
 
 Komitet Naukowy
 ---
-Przewodniczący: dr hab. Janusz Dembowski prof. UM
+**Przewodniczący**: dr hab. Janusz Dembowski, prof. UMW
 
-prof. dr hab. Tomasz Szydełko, prof. dr hab. Andrzej Paradysz, prof dr hab. Romuald Zdrojowy, prof. dr hab. Anna Kołodziej, prof dr hab. Wojciech Apoznański, prof. dr hab. Krzysztof Bar, dr hab. Bartosz Małkiewicz, dr hab. Piotr Bryniarski, dr hab. Wojciech Krajewski, dr hab. Marcin Życzkowski, dr Michał Wróbel
+prof. dr hab. Tomasz Szydełko; prof. dr hab. Andrzej Paradysz; prof dr hab. Romuald Zdrojowy; prof. dr hab. Anna Kołodziej; prof dr hab. Wojciech Apoznański; prof. dr hab. Krzysztof Bar; prof. dr hab. Wojciech Krajewski; dr hab. Bartosz Małkiewicz, prof. UMW; dr hab. Piotr Bryniarski, prof. SUM, dr hab. Marcin Życzkowski, prof. UO, dr Michał Wróbel
 
 Komitet organizacyjny
 ---
-Przewodniczący: prof. dr hab. Romuald Zdrojowy
+**Przewodniczący**: dr Michał Wróbel
 
-dr hab. Janusz Dembowski prof. UM, Michał Wróbel, Bartosz Małkiewicz, Zenona Jabłońska, Marek Górecki, Paweł Kowal, Jarosław Lewandowski, Krzysztof Tupikowski, Arnold Karbowski, Maciej Lenartowski, Radosław Piszczek, Wojciech Tomkalski, Szymon Zapołoch, Maciej Wołkowiecki, Danuta Musioł, Edyta Chamioło-Sołtysik, Krystyna Baszak
+prof. dr hab. Romuald Zdrojowy; dr hab. Janusz Dembowski, prof. UMW; dr hab. Bartosz Małkiewicz, prof. UMW; dr Zenona Jabłońska; dr Marek Górecki; dr Paweł Kowal; dr Jarosław Lewandowski; dr Krzysztof Tupikowski; dr Arnold Karbowski; dr Krystyna Baszak; Maciej Lenartowski; Radosław Piszczek; Wojciech Tomkalski; Szymon Zapołoch; Maciej Wołkowiecki; Edyta Chamioło-Sołtysik; Dawid Janczak; Szymon Wróbel
 
 {% if 0 != 0 %}
 Sponsorzy
