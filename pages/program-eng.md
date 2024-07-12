@@ -16,7 +16,7 @@ dr hab. Janusz Dembowski, prof. UMW; prof. dr hab. Tomasz Szydełko; prof. dr ha
 **Moderators**: dr hab. Bartosz Małkiewicz, prof. UMW; dr hab. Marcin Życzkowski, prof. UO; dr hab. Anna Kołodziej, prof. UMW
 
 1. *Bladder-sparing treatment. Trimodal therapy*, dr hab. Anna Kołodziej, prof. UMW
-2. *Management of the perioperative period in a patient with MIUC with a high risk of recurrence - interdisciplinary cooperation*, dr hab. Anna Kołodziej, prof. UMW, Sponsored lecture
+2. *Management of the perioperative period in a patient with MIUC with a high risk of recurrence - interdisciplinary cooperation*, dr Zbyszko Chowaniec, Sponsored lecture
 3. *The role of urologist-oncologist cooperation in patients with urothelial cancer*, prof. dr hab. Wojciech Krajewski; dr Zbyszko Chowaniec, Sponsored lecture
 4. *Individualized approach to hormonal treatment of prostate cancer, taking into account cardiovascular risk*, Sponsored lecture
 5. *LHRH antagonists – is this the new ADT standard? New therapeutic option*, dr hab. Bartosz Małkiewicz, prof. UMW, Sponsored lecture

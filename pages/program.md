@@ -17,7 +17,7 @@ dr hab. Janusz Dembowski, prof. UMW; prof. dr hab. Tomasz Szydełko; prof. dr ha
 **Prowadzący**: dr hab. Bartosz Małkiewicz, prof. UMW; dr hab. Marcin Życzkowski, prof. UO; dr hab. Anna Kołodziej, prof. UMW
 
 1.	*Leczenie oszczędzające pęcherz. Terapia trójmodalna*, dr hab. Anna Kołodziej, prof. UMW
-2.	*Postępowanie w okresie okołooperacyjnym u pacjenta z MIUC z wysokim ryzyku nawrotu – współpraca interdyscyplinarna*, dr hab. Anna Kołodziej, prof. UMW, Wykład sponsorowany
+2.	*Postępowanie w okresie okołooperacyjnym u pacjenta z MIUC z wysokim ryzyku nawrotu – współpraca interdyscyplinarna*, dr Zbyszko Chowaniec, Wykład sponsorowany
 3.	*Rola współpracy urolog-onkologu pacjentów z rakiem urotelialnym*, prof dr hab. Wojciech Krajewski; dr Zbyszko Chowaniec, Wykład sponsorowany
 4.	*Zindywidualizowane podejście do leczenia hormonalnego raka gruczołu krokowego z uwzględnieniem ryzyka sercowo-naczyniowego*, Wykład sponsorowany
 5.	*Antagoniści LHRH – czy to nowy standard ADT? Nowa opcja terapeutyczna*, dr hab. Bartosz Małkiewicz, prof. UMW, Wykład sponsorowany
