@@ -23,9 +23,11 @@ W tytule wpłaty wpisać "{{site.title}}" i imię i nazwisko uczestniczki/uczest
 			
 Koszt uczestnictwa
 ---
-* 1100 zł – uczestnictwo w Konferencji, zakwaterowanie w pokoju dwuosobowym, wyżywienie
-* 1600 zł – uczestnictwo w Konferencji, zakwaterowanie w pokoju jednoosobowym, wyżywienie
-* 900 zł - osoby towarzyszące (zakwaterowanie, wyżywienie)
+* 1100 zł -- uczestnictwo w Konferencji, zakwaterowanie w pokoju dwuosobowym, wyżywienie
+* 1600 zł -- uczestnictwo w Konferencji, zakwaterowanie w pokoju jednoosobowym, wyżywienie
+* 900 zł -- osoby towarzyszące (zakwaterowanie, wyżywienie)
+
+*Udział osób towarzyszących jest dodatkowo płatny i nie zostanie sfinansowany ze środków pochodzących od firm członkowskich Izby POLMED oraz Partnerów SOWE.*
 
 Formularz zgłoszeniowy
 ---
