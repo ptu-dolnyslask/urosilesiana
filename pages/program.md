@@ -24,6 +24,9 @@ dr hab. Janusz Dembowski, prof. UMW; prof. dr hab. Tomasz Szydełko; prof. dr ha
 6.	*Enzalutamid oraz inne opcje terapeutyczne u pacjentów z opornym na kastrację rakiemgruczołu krokowego (mCRPC) – zalecenia, praktyka oraz nowości w programie lekowym B56*, prof. dr hab. Tomasz Szydełko, Wykład sponsorowany
 7.	*Aktualne możliwości leczenia pacjentów z rakiem stercza, ze szczególnym uwzględnieniem zastosowania darolutamidu w stadium nmCRPC i mHSPC*, dr Zbyszko Chowaniec, Wykład sponsorowany
 
+### 20:00 – 22:00
+#### Kolacja
+
 Sobota 14.09.2024
 ---
 
@@ -73,6 +76,9 @@ Sobota 14.09.2024
 2.	*Przezpęcherzowy RARP metodą Hood Technique - czy warto?*, Adrian Czekaj
 3.	*Zespół Bolesnego pęcherza moczowego*, Michał Pietrus
 4.	*Neuropatia sromowa okiem urologa - podstawy teoretyczne, diagnostyka i leczenie.*, Adrian Czekaj; Wiktor Bursiewicz
+
+### 20:00 – 22:00
+#### Kolacja
 
 Niedziela 15.09.2024
 ---
