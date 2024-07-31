@@ -23,6 +23,9 @@ dr hab. Janusz Dembowski, prof. UMW; prof. dr hab. Tomasz Szydełko; prof. dr ha
 6. *Enzalutamide and other therapeutic options in patients with castration-resistant prostate cancer (mCRPC) - recommendations, practice and new products in the drug program B56*, prof. dr hab. Tomasz Szydełko, Sponsored lecture
 7. *Current treatment options for patients with prostate cancer, with particular emphasis on the use of darolutamide in the nmCRPC and mHSPC stages*, dr Zbyszko Chowaniec, Sponsored lecture
 
+### 20:00 – 22:00
+#### Dinner
+
 ## Saturday 14/09/2024
 
 ### 8:30 – 9:45
@@ -70,6 +73,9 @@ dr hab. Janusz Dembowski, prof. UMW; prof. dr hab. Tomasz Szydełko; prof. dr ha
 2. *Transvesical RARP using Hood Technique - is it worth it?*, Adrian Czekaj
 3. *Painful Bladder Syndrome*, Michał Pietrus
 4. *Pudendal neuropathy from the perspective of a urologist - theoretical basis, diagnosis and treatment*, Adrian Czekaj; Wiktor Bursiewicz
+
+### 20:00 – 22:00
+#### Dinner
 
 ## Sunday 15.09.2024
 ### 9:00 – 12:00
