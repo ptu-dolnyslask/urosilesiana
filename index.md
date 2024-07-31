@@ -6,9 +6,7 @@ layout: default
 W imieniu Komitetu Organizacyjnego mamy przyjemność zaprosić Państwa na kolejną
 Konferencję Naukową Urologów z Dolnego i Górnego Śląska „Urosilesiana XXVII”, która odbędzie się w dniach 13.09-15.09.2024 w Jeleniej Górze. 
 
-{% if 0 != 0 %}
-**Za udział w konferencji przyznawane jest 12 punktów CME-CPD** [PDF]({{ site.baseurl }}/assets/CME-CPD_XXV_UROSILESIANA.pdf)
-{% endif %}
+**Za udział w konferencji przyznawane jest 9 punktów CME-CPD** [PDF]({{ site.baseurl }}/assets/doc/CME-CPD_2024.pdf)
 
 Honorowy patronat:
 ---
@@ -33,6 +31,15 @@ Komitet organizacyjny
 **Przewodniczący**: dr Michał Wróbel
 
 prof. dr hab. Romuald Zdrojowy; dr hab. Janusz Dembowski, prof. UMW; dr hab. Bartosz Małkiewicz, prof. UMW; dr Zenona Jabłońska; dr Marek Górecki; dr Paweł Kowal; dr Jarosław Lewandowski; dr Krzysztof Tupikowski; dr Arnold Karbowski; dr Krystyna Baszak; Maciej Lenartowski; Radosław Piszczek; Wojciech Tomkalski; Szymon Zapołoch; Maciej Wołkowiecki; Edyta Chamioło-Sołtysik; Dawid Janczak; Szymon Wróbel
+
+Ceryfikaty
+---
+
+Konferencja pomyślnie przeszła certyfikacje:
+* SOWE [PDF]({{ site.baseurl }}/assets/doc/SOWE_2024_1632.pdf)
+{% if 0 != 0 %}
+* Infarma [PDF]({{ site.baseurl }}/assets/Certyfikat_Infarma.pdf)
+{% endif %}
 
 {% if 0 != 0 %}
 Sponsorzy
@@ -59,12 +66,5 @@ Sponsorzy
 * **Gerot-Lannach**
 * **Recordati**
 * **EP-P**
-
-Ceryfikaty
----
-
-Konferencja pomyślnie przeszła certyfikacje:
-* Infarma [PDF]({{ site.baseurl }}/assets/Certyfikat_Infarma.pdf)
-* SOWE [PDF]({{ site.baseurl }}/assets/Certyfikat_SOWE_MedTech.pdf)
 
 {% endif %}

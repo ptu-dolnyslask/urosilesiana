@@ -19,8 +19,8 @@ dr hab. Janusz Dembowski, prof. UMW; prof. dr hab. Tomasz Szydełko; prof. dr ha
 1.	*Leczenie oszczędzające pęcherz. Terapia trójmodalna*, dr hab. Anna Kołodziej, prof. UMW
 2.	*Postępowanie w okresie okołooperacyjnym u pacjenta z MIUC z wysokim ryzyku nawrotu – współpraca interdyscyplinarna*, dr Zbyszko Chowaniec, Wykład sponsorowany
 3.	*Rola współpracy urolog-onkologu pacjentów z rakiem urotelialnym*, prof dr hab. Wojciech Krajewski; dr Zbyszko Chowaniec, Wykład sponsorowany
-4.	*Zindywidualizowane podejście do leczenia hormonalnego raka gruczołu krokowego z uwzględnieniem ryzyka sercowo-naczyniowego*, Wykład sponsorowany
-5.	*Antagoniści LHRH – czy to nowy standard ADT? Nowa opcja terapeutyczna*, dr hab. Bartosz Małkiewicz, prof. UMW, Wykład sponsorowany
+4.	*Antagoniści LHRH – czy to nowy standard ADT? Nowa opcja terapeutyczna*, dr hab. Bartosz Małkiewicz, prof. UMW, Wykład sponsorowany
+5.  *Zindywidualizowane podejście do leczenia hormonalnego raka gruczołu krokowego z uwzględnieniem ryzyka sercowo-naczyniowego*, dr hab. Roman Sosnowski, prof. Instytutu, Wykład sponsorowany
 6.	*Enzalutamid oraz inne opcje terapeutyczne u pacjentów z opornym na kastrację rakiemgruczołu krokowego (mCRPC) – zalecenia, praktyka oraz nowości w programie lekowym B56*, prof. dr hab. Tomasz Szydełko, Wykład sponsorowany
 7.	*Aktualne możliwości leczenia pacjentów z rakiem stercza, ze szczególnym uwzględnieniem zastosowania darolutamidu w stadium nmCRPC i mHSPC*, dr Zbyszko Chowaniec, Wykład sponsorowany
 
