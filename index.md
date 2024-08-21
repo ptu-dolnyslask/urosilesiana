@@ -30,16 +30,14 @@ Komitet organizacyjny
 ---
 **Przewodniczący**: dr Michał Wróbel
 
-prof. dr hab. Romuald Zdrojowy; dr hab. Janusz Dembowski, prof. UMW; dr hab. Bartosz Małkiewicz, prof. UMW; dr Zenona Jabłońska; dr Marek Górecki; dr Paweł Kowal; dr Jarosław Lewandowski; dr Krzysztof Tupikowski; dr Arnold Karbowski; dr Krystyna Baszak; Maciej Lenartowski; Radosław Piszczek; Wojciech Tomkalski; Szymon Zapołoch; Maciej Wołkowiecki; Edyta Chamioło-Sołtysik; Dawid Janczak; Szymon Wróbel
+prof. dr hab. Romuald Zdrojowy; dr hab. Janusz Dembowski, prof. UMW; dr hab. Bartosz Małkiewicz, prof. UMW; dr Zenona Jabłońska; dr Marek Górecki; dr Paweł Kowal; dr Jarosław Lewandowski; dr hab. Krzysztof Tupikowski; dr Arnold Karbowski; dr Krystyna Baszak; Maciej Lenartowski; Radosław Piszczek; Wojciech Tomkalski; Szymon Zapołoch; Maciej Wołkowiecki; Edyta Chamioło-Sołtysik; Dawid Janczak; Szymon Wróbel
 
 Ceryfikaty
 ---
 
 Konferencja pomyślnie przeszła certyfikacje:
 * SOWE [PDF]({{ site.baseurl }}/assets/doc/SOWE_2024_1632.pdf)
-{% if 0 != 0 %}
-* Infarma [PDF]({{ site.baseurl }}/assets/Certyfikat_Infarma.pdf)
-{% endif %}
+* Infarma [PDF]({{ site.baseurl }}/assets/doc/INFARMA_Certyfikat_8574.pdf)
 
 {% if 0 != 0 %}
 Sponsorzy

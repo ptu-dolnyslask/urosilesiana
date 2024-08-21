@@ -10,7 +10,7 @@ Piątek 13.09.2024
 
 ### 16:50
 #### Uroczyste otwarcie konferencji
-dr hab. Janusz Dembowski, prof. UMW; prof. dr hab. Tomasz Szydełko; prof. dr hab. Andrzej Paradysz; dr hab. Marcin Życzkowski, prof. UO; dr Michał Wróbel
+dr hab. Janusz Dembowski, prof. UMW; prof. dr hab. Romuald Zdrojowy; prof. dr hab. Tomasz Szydełko; prof. dr hab. Andrzej Paradysz; dr hab. Marcin Życzkowski, prof. UO; dr Michał Wróbel
 
 ### 17:00 – 20:00
 #### Sesja I Onkologia urologiczna
@@ -23,6 +23,7 @@ dr hab. Janusz Dembowski, prof. UMW; prof. dr hab. Tomasz Szydełko; prof. dr ha
 5.  *Zindywidualizowane podejście do leczenia hormonalnego raka gruczołu krokowego z uwzględnieniem ryzyka sercowo-naczyniowego*, dr hab. Roman Sosnowski, prof. Instytutu, Wykład sponsorowany
 6.	*Enzalutamid oraz inne opcje terapeutyczne u pacjentów z opornym na kastrację rakiemgruczołu krokowego (mCRPC) – zalecenia, praktyka oraz nowości w programie lekowym B56*, prof. dr hab. Tomasz Szydełko, Wykład sponsorowany
 7.	*Aktualne możliwości leczenia pacjentów z rakiem stercza, ze szczególnym uwzględnieniem zastosowania darolutamidu w stadium nmCRPC i mHSPC*, dr Zbyszko Chowaniec, Wykład sponsorowany
+8. *Diagnostyka genetyczna w raku gruczołu krokowego*, dr hab. Bartosz Małkiewicz, prof. UMW, Wykład Sponsorowany
 
 ### 20:00 – 22:00
 #### Kolacja

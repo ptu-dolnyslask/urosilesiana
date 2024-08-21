@@ -9,7 +9,7 @@ Agenda for {{site.title}}
 
 ### 16:50
 #### Opening of the conference
-dr hab. Janusz Dembowski, prof. UMW; prof. dr hab. Tomasz Szydełko; prof. dr hab. Andrzej Paradysz; dr hab. Marcin Życzkowski, prof. UO; dr Michał Wróbel
+dr hab. Janusz Dembowski, prof. UMW; prof. dr hab. Romuald Zdrojowy; prof. dr hab. Tomasz Szydełko; prof. dr hab. Andrzej Paradysz; dr hab. Marcin Życzkowski, prof. UO; dr Michał Wróbel
 
 ### 17:00 – 20:00
 #### Session I Urological oncology
@@ -22,6 +22,7 @@ dr hab. Janusz Dembowski, prof. UMW; prof. dr hab. Tomasz Szydełko; prof. dr ha
 5. *Individualized approach to hormonal treatment of prostate cancer, taking into account cardiovascular risk*, dr hab. Roman Sosnowski, prof. Instytutu,Sponsored lecture
 6. *Enzalutamide and other therapeutic options in patients with castration-resistant prostate cancer (mCRPC) - recommendations, practice and new products in the drug program B56*, prof. dr hab. Tomasz Szydełko, Sponsored lecture
 7. *Current treatment options for patients with prostate cancer, with particular emphasis on the use of darolutamide in the nmCRPC and mHSPC stages*, dr Zbyszko Chowaniec, Sponsored lecture
+8. *Prostate cancer genetic diagnostics*, dr hab. Bartosz Małkiewicz, prof. UMW, Sponsored lecture
 
 ### 20:00 – 22:00
 #### Dinner
