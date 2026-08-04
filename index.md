@@ -4,9 +4,13 @@ layout: default
 {{site.title}}
 ===
 W imieniu Komitetu Organizacyjnego mamy przyjemność zaprosić Państwa na kolejną
-Konferencję Naukową Urologów z Dolnego i Górnego Śląska „Urosilesiana XXVII”, która odbędzie się w dniach 13.09-15.09.2024 w Jeleniej Górze. 
+Konferencję Naukową Urologów z Dolnego i Górnego Śląska „{{site.title}}”, która odbędzie się w dniach {{site.date}} w Jeleniej Górze. 
 
+W ramach konferencji odbędzie się również Polsko-Ukraińskie Spotkanie Urologów.
+
+{% if 0 != 0 %}
 **Za udział w konferencji przyznawane jest 9 punktów CME-CPD** [PDF]({{ site.baseurl }}/assets/doc/CME-CPD_2024.pdf)
+{% endif %}
 
 Honorowy patronat:
 ---
@@ -22,22 +26,25 @@ Organizatorzy:
 
 Komitet Naukowy
 ---
-**Przewodniczący**: dr hab. Janusz Dembowski, prof. UMW
+**Przewodniczący**: dr Michał Wróbel
 
-prof. dr hab. Tomasz Szydełko; prof. dr hab. Andrzej Paradysz; prof dr hab. Romuald Zdrojowy; prof. dr hab. Anna Kołodziej; prof dr hab. Wojciech Apoznański; prof. dr hab. Krzysztof Bar; prof. dr hab. Wojciech Krajewski; dr hab. Bartosz Małkiewicz, prof. UMW; dr hab. Piotr Bryniarski, prof. SUM, dr hab. Marcin Życzkowski, prof. UO, dr Michał Wróbel
+prof. dr hab. Tomasz Szydełko; prof. dr hab. Andrzej Paradysz; prof dr hab. Romuald Zdrojowy; prof. dr hab. Anna Kołodziej; prof dr hab. Wojciech Apoznański; prof. dr hab. Krzysztof Bar; prof. dr hab. Wojciech Krajewski; prof. dr hab. Bartosz Małkiewicz; dr hab. Janusz Dembowski, prof. UMW; dr hab. Piotr Bryniarski, prof. SUM; dr hab. Marcin Życzkowski, prof. UO
 
 Komitet organizacyjny
 ---
 **Przewodniczący**: dr Michał Wróbel
 
-prof. dr hab. Romuald Zdrojowy; dr hab. Janusz Dembowski, prof. UMW; dr hab. Bartosz Małkiewicz, prof. UMW; dr Zenona Jabłońska; dr Marek Górecki; dr Paweł Kowal; dr Jarosław Lewandowski; dr hab. Krzysztof Tupikowski; dr Arnold Karbowski; dr Krystyna Baszak; Maciej Lenartowski; Radosław Piszczek; Wojciech Tomkalski; Szymon Zapołoch; Maciej Wołkowiecki; Edyta Chamioło-Sołtysik; Dawid Janczak; Szymon Wróbel
+prof. dr hab. Romuald Zdrojowy; dr hab. Janusz Dembowski, prof. UMW; prof. dr hab. Bartosz Małkiewicz; dr Zenona Jabłońska; dr Marek Górecki; dr Paweł Kowal; dr Jarosław Lewandowski; dr hab. Krzysztof Tupikowski; dr Arnold Karbowski; dr Krystyna Baszak; Maciej Lenartowski; Radosław Piszczek; Wojciech Tomkalski; Szymon Zapołoch; Maciej Wołkowiecki; Edyta Chamioło-Sołtysik; Dawid Janczak; Szymon Wróbel
 
+{% if 0 != 0 %}
 Ceryfikaty
 ---
 
 Konferencja pomyślnie przeszła certyfikacje:
 * SOWE [PDF]({{ site.baseurl }}/assets/doc/SOWE_2024_1632.pdf)
 * Infarma [PDF]({{ site.baseurl }}/assets/doc/INFARMA_Certyfikat_8574.pdf)
+
+{% endif %}
 
 {% if 0 != 0 %}
 Sponsorzy

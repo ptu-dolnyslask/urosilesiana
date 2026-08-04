@@ -5,90 +5,113 @@ layout: default
 Program Konferencji {{site.title}}
 ===
 
-Piątek 13.09.2024
+Piątek 16.10.2026
 ---
 
-### 16:50
-#### Uroczyste otwarcie konferencji
-dr hab. Janusz Dembowski, prof. UMW; prof. dr hab. Romuald Zdrojowy; prof. dr hab. Tomasz Szydełko; prof. dr hab. Andrzej Paradysz; dr hab. Marcin Życzkowski, prof. UO; dr Michał Wróbel
+### 16:50 Rozpoczęcie Konferencji 
+Michał Wróbel, Marcin Życzkowski
 
-### 17:00 – 20:00
-#### Sesja I Onkologia urologiczna
-**Prowadzący**: dr hab. Bartosz Małkiewicz, prof. UMW; dr hab. Marcin Życzkowski, prof. UO; dr hab. Anna Kołodziej, prof. UMW
+### 17:00 -- 19:00 Sesja I: Leczenie systemowe w urologii
+**Prowadzący**: Tomasz Szydełko, Marcin Życzkowski, Bartosz Małkiewicz, Paweł Rajwa.
 
-1.	*Leczenie oszczędzające pęcherz. Terapia trójmodalna*, dr hab. Anna Kołodziej, prof. UMW
-2.	*Postępowanie w okresie okołooperacyjnym u pacjenta z MIUC z wysokim ryzyku nawrotu – współpraca interdyscyplinarna*, dr Zbyszko Chowaniec, Wykład sponsorowany
-3.	*Rola współpracy urolog-onkologu pacjentów z rakiem urotelialnym*, prof dr hab. Wojciech Krajewski; dr Zbyszko Chowaniec, Wykład sponsorowany
-4.	*Antagoniści LHRH – czy to nowy standard ADT? Nowa opcja terapeutyczna*, dr hab. Bartosz Małkiewicz, prof. UMW, Wykład sponsorowany
-5.  *Zindywidualizowane podejście do leczenia hormonalnego raka gruczołu krokowego z uwzględnieniem ryzyka sercowo-naczyniowego*, dr hab. Roman Sosnowski, prof. Instytutu, Wykład sponsorowany
-6.	*Enzalutamid oraz inne opcje terapeutyczne u pacjentów z opornym na kastrację rakiemgruczołu krokowego (mCRPC) – zalecenia, praktyka oraz nowości w programie lekowym B56*, prof. dr hab. Tomasz Szydełko, Wykład sponsorowany
-7.	*Aktualne możliwości leczenia pacjentów z rakiem stercza, ze szczególnym uwzględnieniem zastosowania darolutamidu w stadium nmCRPC i mHSPC*, dr Zbyszko Chowaniec, Wykład sponsorowany
-8. *Diagnostyka genetyczna w raku gruczołu krokowego*, dr hab. Bartosz Małkiewicz, prof. UMW, Wykład Sponsorowany
+1. Tomasz Szydełko, *Enzalutamid - skuteczność i tolerancja, które definiują jego miejsce w wytycznych.* Wykład sponsorowany
+2. Bartosz Małkiewicz, *Współczesne standardy leczenia zaawansowanego raka gruczołu krokowego.* Wykład sponsorowany
+3. Paweł Rajwa, *Rak gruczołu krokowego – aktualne wyzwania kliniczne.* Wykład sponsorowany
+4. Bartosz Małkiewicz, *Od dogmatu do precyzji: HERO i REVOLUTION — nowe podejście do ADT w 2026 roku.* Wykład sponsorowany
+5. Wojciech Krajewski, *Badanie kliniczne fazy III EV-302.* Wykład sponsorowany
+6. *Pytania i dyskusja*
 
-### 20:00 – 22:00
-#### Kolacja
 
-Sobota 14.09.2024
+Sobota, 17.10.2026
 ---
 
-### 8:30 – 9:45
-#### Sesja II Diagnostyka nowotworów
-**Prowadzący**: dr hab. Marcin Życzkowski, prof. UO; prof. dr hab. Romuald Zdrojowy; dr hab. Krzysztof Tupikowski
+### 8:50 -- 10:20 Sesja II: Nowotwory nadnerczy i zabiegi z asystą robota
+**Prowadzący**: Tomasz Szydełko, Bartosz Małkiewicz, Michał Wróbel, Tomasz Tomkalski
 
-1.	*Pierwsze doświadczenia z systemem Exact Vue do biopsji fuzyjnej prostaty z mikro USG*, Jakub Wojnarowicz
-2.	*Stopień złośliwości zmian wykrywanych w biopsji fuzyjnej w zależności od stopnia PIRADS opisywanego w rezonansie magnetycznym*, Mariusz Sadowski; dr hab. Igal Mor; Michał Białożyt
-3.	*mpMRI for Dummies*, Wiktor Bursiewicz.
-4.	*Protokół przygotowania do biopsji przezkroczowej i przezodbytniczej w 2024*, Łukasz Nowak
-5.	*Cytokeratyny w follow-up po leczeniu nowotworów pęcherza moczowego nienaciekających mięśniówki pośredniego ryzyka*, Michał Wróbel
-6.	*UTUC i zespół Lynch – nowa odsłona starej zależności*, Jan Łaszkiewicz
+1. Tomasz Tomkalski, *Kiedy operować i jak przygotować pacjenta z guzem nadnercza.*
+2. Sebastian Bobowski, Wojciech Tomkalski, *Kogo operowaliśmy? Analiza wyników histopatologicznych z adrenalektomii.*
+3. Jakub Ryszawy, *Operacja 16-centymetrowego guza nadnercza metodą laparoskopową.*
+4. Aleksander Radecki, *Robotyczna RPLND w guzach jądra  - małoinwazyjna alternatywa dla operacji klasycznych (Video)*
+5. Mikołaj Kisiała, *Wyniki funkcjonalne i onkologiczne - charakterystyka ogólna pierwszych 750 zabiegów RARP.*
+6. Patryk Patrzałek, *Wpływ doświadczenia operatora na wyniki okołooperacyjne robotycznej radykalnej prostatektomii – analiza 750 zabiegów.*
+7. *Pytania i dyskusja*
 
-### 9:45 – 11:15
-#### Sesja III Kamica, zakażenia, zaburzenia mikcji, nietrzymanie moczu
-**Prowadzący**: prof. dr hab. Wojciech Krajewski; dr Tadeusz Niezgoda; dr Krzysztof Ratajczyk
+### 10:20 -- 10:25 Przerwa
 
-1.	*Zaburzenia gospodarki kwasowo-zasadowej jako przyczyna kamicy nerkowej na przykładzie kwasicy cewkowej*, dr hab. Piotr Bryniarski, prof. SUM
-2.	*Infekcje u chorych z nieusuwalnymi ciałami obcymi w drogach moczowych*, prof. dr hab. Wojciech Krajewski
-3.	*Przyczyny obturacji drenów nefrostomijnych -- analiza wstępna*, Michał Iwanicki; Marek Olesz
-4.	*Analiza inkrustacji i sprężystości cewników "double J" implantowanych po zabiegach URSL i RIRS*, Mateusz Piątek; Jakub Hobot
-5.	*Oznacznie składu chemicznego kamienia -- po co, kiedy, jak?*, Wojciech Tomczak
-6.	*Laser holmowy i laser włókna thulowego -- który laser do których zabiegów*, Łukasz Nowak
+### 10:25 -- 11:55 Sesja III: Rak stercza i pęcherza moczowego
+**Prowadzący**: Romuald Zdrojowy, Anna Kołodziej, Marcin Życzkowski
 
-### 11:15 – 13:00
-#### Sesja IV Andrologia, endokrynologia
-**Prowadzący**: dr hab. Anna Kołodziej prof. WUM; dr hab. Piotr Bryniarski; dr Paweł Piotrów
+1. Paweł Rajwa, *Stockholm3 w diagnostyce raka stercza.*
+2. Patryk Banaś, *Badanie per rectum w dobie rezonansu magnetycznego.*
+3. Paweł Sybila, *Zgodność wyników biopsji prostaty z ostatecznym wynikiem histopatologicznym po prostatektomii radykalnej.*
+4. Piotr Krzystyniak, *Rak prostaty w erze AI – czy algorytm może wspierać ocenę mpMRI?*
+5. Łukasz Nowak, *Współczesne metody leczenia ogniskowego raka stercza – przegląd aktualnych możliwości terapeutycznych*
+6. Adam Gurwin, *PET-PSMA - świetne badanie, ale...*
+7. Bartosz Bujała, *Porównanie wyników biopsji fuzyjnych stercza metodą przezodbytniczą i przezkroczową w Klinice Urologii w Zabrzu.*
+8. Klaudia Korlacka, *PD-L1 w raku urotelialnym pęcherza moczowego: znaczenie biologiczne, ograniczenia interpretacyjne i rola w kwalifikacji do leczenia*
+9. *Pytania i dyskusja*
 
-1.	*The role of extracorporeal shock wave therapy in andrology*, Joanna Chorbińska 
-2.	*Suplementy diety w leczeniu męskiej niepłodności*, Michał Wróbel; Wojciech Tomkalski
-3.	*Leczenie testosteronem -- wskazania, przeciwskazania, pitfalls*, Paweł Stelmach 
-4.	*Postępowanie w przypadkowo wykrytych zmianach nadnerczy (incidentaloma) -- wytyczne europejskie 2023 i nowe doniesienia*, Aleksandra Zdrojowy-Wełna
-5.	*Farmakoterapia łagodnego rozrostu stercza zgodnie z wytycznymi EAU*, Michał Wróbel; Sebastian Fedorowicz
-6.	*Samocewnikowanie w zaburzeniach opróżniania pęcherza moczowego*, prof. dr hab. Wojciech Krajewski; Jolanta Budrewicz
-7.	*Co nowego w leczeniu nietrzymania mocz? Wytyczne EAU*, dr hab. Anna Kołodziej, prof. UMW
-8.	*Jak i kiedy Implantować AMS 800 u kobiet- kiedy jest właściwym sposobem postępowania*, dr hab. Tomasz Szopiński
+### 11:55 -- 12:00 Przerwa
 
-### 13:00 – 14:00
-#### Przerwa Obiadowa 
+### 12:00 -- 13:30 Sesja IV: Endoskopia i kamica
+**Prowadzący**: Wojciech Krajewski, Piotr Bryniarski, Jakub Ryszawy
 
-### 14:00 – 15:30
-#### Sesja V Varia
-**Prowadzący**: dr Adrian Czekaj; dr Michał Wróbel; dr Paweł Dębiński
+1. Wojciech Krajewski, *Doświatłowe leczenie adjuwantowe w UTUC.*
+2. Jan Łaszkiewicz, *Kiedy można zrezygnować z asysty anestezjologa? TULA i URS w znieczuleniu miejscowym.*
+3. Adam Chełmoński, *Przezskórna biopsja guzów nerek pod kontrolą tomografii komputerowej: wykonalność, skuteczność diagnostyczna i profil bezpieczeństwa.*
+4. Jakub Hobot, *URS zstępujący jako metoda leczenia trudnych przypadków w endourologii.*
+5. Michał Iwanicki, *Ocena loży po krioablacji guzów nerek w TK i MRI.*
+6. Piotr Bryniarski, *Testy obciążeniowe w diagnostyce metabolicznej kamicy moczowej.*
+7. Maciej Hobot, *Strategie litotrypsji laserowej podczas RIRS: dusting vs fragmenting - wpływ na SFR oraz zastosowanie techniki FANS.*
+8. Wojciech Tomczak, *Profilaktyka nawrotu kamicy układu moczowego: wytyczne vs rzeczywistość.*
+9. *Pytania i dyskusja*
 
-1.	*Krioterapia guzów nerek – kryteria kwalifikacji*, prof. dr hab. Wojciech Krajewski 
-2.	*Przezpęcherzowy RARP metodą Hood Technique - czy warto?*, Adrian Czekaj
-3.	*Zespół Bolesnego pęcherza moczowego*, Michał Pietrus
-4.	*Neuropatia sromowa okiem urologa - podstawy teoretyczne, diagnostyka i leczenie.*, Adrian Czekaj; Wiktor Bursiewicz
+### 13:30 -- 14:00 Przerwa -- Lunch
 
-### 20:00 – 22:00
-#### Kolacja
+### 14:00 -- 15:00 Sesja V: Powikłania
+**Prowadzący**: Michał Wróbel, Adrian Czekaj, Arnold Karbowski
 
-Niedziela 15.09.2024
+1. Sebastian Fedorowicz, *Krwiomocz na SOR: powikłania urologiczne?*
+2. Dariusz Salamon, *Odległe następstwa urologiczne popularnej procedury ginekologicznej.*
+3. Gracjan Sitarek, *Superselektywna embolizacja tętnic nerkowych w leczeniu jatrogennych powikłań krwotocznych po zabiegach urologicznych - analiza kliniczna serii przypadków w aspekcie "fenotypu krwawienia".*
+4. Adrian Czekaj, *Implant hydrauliczny prącia - jak zmniejszyć ryzyko powikłań infekcyjnych?*
+5. Artur Pietrusa, *Rodzaj zastosowanej energii elektrochirurgicznej a powikłania po TURB.*
+6. *Pytania i dyskusja*
+
+Niedziela, 18.10.2026
 ---
 
-### 9:00 – 12:00
-#### Sesja VI Prawa Pacjenta
-**Prowadzący**: dr Zenona Jabłońska; mgr Edyta Chamioło-Sołtysik; dr Krystyna Baszak; mgr Celina Drozd; mgr Beata Gancarz; mgr Martyna Suchojad
+### 8:50 -- 10:50 Sesja VI: Opieka nad pacjentem urologicznym
+**Prowadzący**: Edyta Chamioło-Sołtysik, Zenona Jabłońska, Beata Gancarz
 
-1.	*Prawa Pacjenta – kiedy je łamiemy nie mając nawet o tym świadomości…*, Zenona Jabłońska; Michał Wróbel
-2.	*Realizacja zleceń lekarskich przez pielęgniarkę na mocy aktów prawnych*, Elżbieta Prus
-3.	*Prawa pacjenta w oparciu o Kodeksy Etyki Zawodowej i Ustawy o Zawodzie Pielęgniarki i Położnej oraz Ustawy o Zawodzie Lekarza*, Arleta Zarzeczna; Ewa Stypułkowska; Paulina Masłyk
-4.	*Czy znamy Prawa Pacjenta – Quiz*, Michał Wróbel
+1. Aleksandra Kozłowska, *Bariery i trudności w realizacji opieki zorientowanej na osobę – analiza postaw personelu.*
+2. Ewa Stypułkowska, Arleta Zarzeczna, *Indywidualne podejście do pacjenta ze stomią – klucz do sukcesu w opiece stomijnej.*
+3. Paulina Masłyk, Joanna Perdek, *Założenia prehabilitacji okołooperacyjnej na oddziale urologicznym.*
+4. Beata Gancarz, Marcelina Wągieł, Jolanta Kaczerewska, Lidia Kapij Łucarz, *Czy pielęgniarka potrafi przewidzieć powikłania po zabiegu urologicznym? Frailty jako nowy parametr życiowy pacjenta.*
+5. *Pytania i dyskusja*
+
+### 10:50 -- 10:55 Przerwa
+
+### 10:55 -- 11:55 Sesja VII: Choroby jąder i prącia
+**Prowadzący**: Zenona Jabłońska, Michał Wróbel, Paweł Piotrów
+
+1. Adrian Poterek, *Rak prącia  - leczenie organooszczędzające – doświadczenia własne.*
+2. Mateusz Piątek, *Leczenie priapizmu - doświadczenia własne.*
+3. Joanna Chorbińska, *Obustronne guzy jąder.*
+4. Paweł Piotrów, *Vasovasostomy - why, when and how.*
+
+### 11:55 -- 12:00 Przerwa 
+
+### 12:00 – 13:30 Sesja VIII: Varia
+**Prowadzący**: Andrzej Borzhijevsky, Krzysztof Ratajczak, Radosław Piszczek
+
+1. Michał Tabor, *Guz nerki przeszczepionej – opis przypadku.*
+2. Jakub Mikszta, *Laparoskopowy NSS dużego guza u 30-letniej pacjentki.*
+3. Artur Pietrusa, *Metodyka zabiegów TURBT w latach 2022-2026, materiał własny.*
+4. Artur Pietrusa, *Porównanie wyników okołooperacyjnych prostatektomii laparoskopowej i robotycznej u pacjentów z rakiem stercza.*
+5. Artur Pietrusa, *Czynniki związane z długością hospitalizacji po leczeniu operacyjnym raka stercza.*
+6. Michał Pułtorak, *Techniczne aspekty dostępu przezcewkowego podczas TURBT u pacjenta z patologiczną otyłością – opis przypadku i przegląd piśmiennictwa.*
+7. Adam Lubas, Tomasz Karolczyk, *Miesak gładkokomórkowy okolicy stercza.*
+9. *Pytania i dyskusja*
+
+### 13:30 Zakończenie konferencji

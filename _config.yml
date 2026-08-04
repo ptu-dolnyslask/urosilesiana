@@ -13,9 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Urosilesiana XXVII
-subtitle: Jelenia Góra, 13-15.09.2024
-email: ptudolnyslask@gmail.com
+title: Urosilesiana XXIX
+date: 16-18.10.2026
+location: Jelenia Góra
+email: uromichal@wp.pl #ptudolnyslask@gmail.com
+contact_mail: uromichal(at)wp.pl # ptudolnyslask(at)gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Strona Dolnośląskiej Konferencji Urologicznej
 baseurl: "/urosilesiana" # the subpath of your site, e.g. /blog
@@ -27,7 +29,6 @@ markdown: kramdown
 sass:
   style: compressed
 
-contact_mail: ptudolnyslask(at)gmail.com
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

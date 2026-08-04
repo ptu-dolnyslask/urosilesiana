@@ -7,8 +7,8 @@ Rejestracja
 
 Warunki uczestnictwa
 ---
-Warunkiem uczestnictwa jest zgłoszenie i opłacenie uczestnictwa do 16.08.2024 -- przesłanie maila ze
-skanem dowodu płatności na adres [{{site.contact_mail}}](mailto:{{site.contact_mail}}).
+Warunkiem uczestnictwa jest zgłoszenie i opłacenie uczestnictwa -- przesłanie maila ze
+skanem dowodu płatności na adres [{{site.contact_mail}}](mailto:{{site.email}}).
 
 > __Polskie Towarzystwo Urologiczne O. Dolnośląski__ \\
 > **Adres**: Ul. Borowska 213; 50-556 Wrocław \\
@@ -23,9 +23,9 @@ W tytule wpłaty wpisać "{{site.title}}" i imię i nazwisko uczestniczki/uczest
 			
 Koszt uczestnictwa
 ---
-* 1100 zł -- uczestnictwo w Konferencji, zakwaterowanie w pokoju dwuosobowym, wyżywienie
+* 1400 zł -- uczestnictwo w Konferencji, zakwaterowanie w pokoju dwuosobowym, wyżywienie
 * 1600 zł -- uczestnictwo w Konferencji, zakwaterowanie w pokoju jednoosobowym, wyżywienie
-* 900 zł -- osoby towarzyszące (zakwaterowanie, wyżywienie)
+* 1200 zł -- osoby towarzyszące (zakwaterowanie, wyżywienie, bez udziału w wykładach, bez zaświadczenia i punktów CME-CPD, bez wstępu na wystawy firm farmaceutycznych)
 
 *Udział osób towarzyszących jest dodatkowo płatny i nie zostanie sfinansowany ze środków pochodzących od firm członkowskich Izby POLMED oraz Partnerów SOWE.*
 

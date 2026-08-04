@@ -4,7 +4,7 @@ layout: default
 Lokalizacja
 ===
 
-**Mercure Jelenia Gora** \\
+**Mercure Jelenia Góra** \\
 ul. Sudecka 63 \\
 58-500 Jelenia Góra
 
