@@ -34,7 +34,7 @@ Komitet organizacyjny
 ---
 **Przewodniczący**: dr Michał Wróbel
 
-prof. dr hab. Romuald Zdrojowy; dr hab. Janusz Dembowski, prof. UMW; prof. dr hab. Bartosz Małkiewicz; dr Zenona Jabłońska; dr Marek Górecki; dr Paweł Kowal; dr Jarosław Lewandowski; dr hab. Krzysztof Tupikowski; dr Arnold Karbowski; dr Krystyna Baszak; Maciej Lenartowski; Radosław Piszczek; Wojciech Tomkalski; Szymon Zapołoch; Maciej Wołkowiecki; Edyta Chamioło-Sołtysik; Dawid Janczak; Szymon Wróbel
+prof. dr hab. Romuald Zdrojowy; dr hab. Janusz Dembowski, prof. UMW; prof. dr hab. Bartosz Małkiewicz; dr hab. Krzysztof Tupikowski; dr Zenona Jabłońska; dr Marek Górecki; dr Paweł Kowal; dr Krzysztof Ratajczak; Arnold Karbowski; dr Krystyna Baszak; Maciej Lenartowski; Radosław Piszczek; Dawid Janczak; Wojciech Tomkalski; Maciej Wołkowiecki; Edyta Chamioło-Sołtysik; Beata Gancarz; Beata Rycombel; Lidia Pszczułkowska; Szymon Wróbel
 
 {% if 0 != 0 %}
 Ceryfikaty
