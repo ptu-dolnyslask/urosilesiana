@@ -103,7 +103,7 @@ Niedziela, 18.10.2026
 ### 11:55 -- 12:00 Przerwa 
 
 ### 12:00 – 13:30 Sesja VIII: Varia
-**Prowadzący**: Andrzej Borzhijevsky, Krzysztof Ratajczak, Radosław Piszczek
+**Prowadzący**: Andrzej Borzhijevsky, Krzysztof Ratajczyk, Radosław Piszczek
 
 1. Michał Tabor, *Guz nerki przeszczepionej – opis przypadku.*
 2. Jakub Mikszta, *Laparoskopowy NSS dużego guza u 30-letniej pacjentki.*

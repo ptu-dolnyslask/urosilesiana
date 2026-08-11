@@ -76,6 +76,10 @@ h1 {
         background: linear-gradient($nav-bg, $navbar-bg);
         color: $nav-color;
 
+        @media print {
+            display: none;
+        }
+
         #mainHeader {
             margin-left: 15px;
 
@@ -112,6 +116,10 @@ h1 {
         align-items: center;
         justify-content: flex-start;
         
+        @media print {
+            display: none;
+        }
+
         a {
             padding: 15px;
             background-color: $nav-elem;
@@ -156,6 +164,10 @@ h1 {
         background: linear-gradient($footer-bg0, $footer-bg1);
         padding: 15px;
         padding-bottom: 30px;
+
+        @media print {
+            display: none;
+        }
     }
 }
 

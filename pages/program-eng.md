@@ -102,7 +102,7 @@ Saturday, 17.10.2026
 ### 11:55 -- 12:00 Break
 
 ### 12:00 -- 13:30 Session VIII: Varia
-**Chairs**: Andrzej Borzhijevsky, Krzysztof Ratajczak, Radosław Piszczek
+**Chairs**: Andrzej Borzhijevsky, Krzysztof Ratajczyk, Radosław Piszczek
 
 1. Michał Tabor, *Tumor in a transplanted kidney — a case report.*
 2. Jakub Mikszta, *Laparoscopic NSS of a large renal mass in a 30-year-old female patient.*
