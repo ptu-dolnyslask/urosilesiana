@@ -25,7 +25,7 @@ Michał Wróbel, Marcin Życzkowski
 Sobota, 17.10.2026
 ---
 
-### 8:50 -- 10:20 Sesja II: Nowotwory nadnerczy i zabiegi z asystą robota
+### 8:40 -- 10:20 Sesja II: Nowotwory nadnerczy i zabiegi z asystą robota
 **Prowadzący**: Tomasz Szydełko, Bartosz Małkiewicz, Michał Wróbel, Tomasz Tomkalski
 
 1. Tomasz Tomkalski, *Kiedy operować i jak przygotować pacjenta z guzem nadnercza.*
@@ -68,7 +68,7 @@ Sobota, 17.10.2026
 
 ### 13:30 -- 14:00 Przerwa -- Lunch
 
-### 14:00 -- 15:00 Sesja V: Powikłania
+### 14:00 -- 15:20 Sesja V: Powikłania
 **Prowadzący**: Michał Wróbel, Adrian Czekaj, Arnold Karbowski
 
 1. Sebastian Fedorowicz, *Krwiomocz na SOR: powikłania urologiczne?*

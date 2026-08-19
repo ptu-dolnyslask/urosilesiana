@@ -24,7 +24,7 @@ Michał Wróbel, Marcin Życzkowski
 Saturday, 17.10.2026
 ---
 
-### 8:50 -- 10:20 Session II: Adrenal Tumors and Robot-Assisted Procedures
+### 8:40 -- 10:20 Session II: Adrenal Tumors and Robot-Assisted Procedures
 **Chairs**: Tomasz Szydełko, Bartosz Małkiewicz, Michał Wróbel, Tomasz Tomkalski
 
 1. Tomasz Tomkalski, *When to operate and how to prepare a patient with an adrenal tumor.*
@@ -68,7 +68,7 @@ Saturday, 17.10.2026
 
 ### 13:30 -- 14:00 Lunch Break
 
-### 14:00 -- 15:00 Session V: Complications
+### 14:00 -- 15:20 Session V: Complications
 **Chairs**: Michał Wróbel, Adrian Czekaj, Arnold Karbowski
 
 1. Sebastian Fedorowicz, *Hematuria in the ER: urological complications?*
@@ -78,7 +78,8 @@ Saturday, 17.10.2026
 5. Artur Pietrusa, *Impact of electrosurgical energy modality on post-TURBT complications.*
 6. *Q&A and discussion*
 
-## Sunday, 18.10.2026
+Sunday, 18.10.2026
+---
 
 ### 8:50 -- 10:50 Session VI: Care of the Urological Patient
 **Chairs**: Edyta Chamioło-Sołtysik, Zenona Jabłońska, Beata Gancarz
