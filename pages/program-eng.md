@@ -11,7 +11,7 @@ Friday 16.10.2026
 ### 16:50 Opening of the Conference
 Michał Wróbel, Marcin Życzkowski
 
-### 17:00 -- 19:00 Session I: Systemic Treatment in Urology
+### 17:00 -- 20:00 Session I: Systemic Treatment in Urology and New Technology
 **Chairs**: Tomasz Szydełko, Marcin Życzkowski, Bartosz Małkiewicz, Paweł Rajwa.
 
 1. Tomasz Szydełko, *Enzalutamide -- efficacy and tolerability that define its place in the guidelines.* Sponsored lecture
@@ -19,7 +19,8 @@ Michał Wróbel, Marcin Życzkowski
 3. Paweł Rajwa, *Prostate cancer – current clinical challenges.* Sponsored lecture
 4. Bartosz Małkiewicz, *From dogma to precision: HERO and REVOLUTION — a new approach to ADT in 2026.* Sponsored lecture
 5. Wojciech Krajewski, *Phase III clinical trial EV-302.* Sponsored lecture
-6. *Q&A and discussion*
+6. Paweł Rajwa, *BPH Surgery 2.0. How robotics and real-time imaging change the game.* Sponsored lecture
+7. *Q&A and discussion*
 
 Saturday, 17.10.2026
 ---

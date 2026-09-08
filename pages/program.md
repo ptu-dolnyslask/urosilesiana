@@ -11,7 +11,7 @@ Piątek 16.10.2026
 ### 16:50 Rozpoczęcie Konferencji 
 Michał Wróbel, Marcin Życzkowski
 
-### 17:00 -- 19:00 Sesja I: Leczenie systemowe w urologii
+### 17:00 -- 20:00 Sesja I: Leczenie systemowe w urologii i nowe technologie
 **Prowadzący**: Tomasz Szydełko, Marcin Życzkowski, Bartosz Małkiewicz, Paweł Rajwa.
 
 1. Tomasz Szydełko, *Enzalutamid - skuteczność i tolerancja, które definiują jego miejsce w wytycznych.* Wykład sponsorowany
@@ -19,7 +19,8 @@ Michał Wróbel, Marcin Życzkowski
 3. Paweł Rajwa, *Rak gruczołu krokowego – aktualne wyzwania kliniczne.* Wykład sponsorowany
 4. Bartosz Małkiewicz, *Od dogmatu do precyzji: HERO i REVOLUTION — nowe podejście do ADT w 2026 roku.* Wykład sponsorowany
 5. Wojciech Krajewski, *Badanie kliniczne fazy III EV-302.* Wykład sponsorowany
-6. *Pytania i dyskusja*
+6. Paweł Rajwa, *Chirurgia BPH 2.0. Jak robotyka i obrazowanie w czasie rzeczywistym zmieniają zasady gry.* Wykład sponsorowany
+7. *Pytania i dyskusja*
 
 
 Sobota, 17.10.2026
