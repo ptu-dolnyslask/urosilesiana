@@ -19,8 +19,8 @@ Michał Wróbel, Marcin Życzkowski
 3. Paweł Rajwa, *Rak gruczołu krokowego – aktualne wyzwania kliniczne.* Wykład sponsorowany
 4. Bartosz Małkiewicz, *Od dogmatu do precyzji: HERO i REVOLUTION — nowe podejście do ADT w 2026 roku.* Wykład sponsorowany
 5. Wojciech Krajewski, *Badanie kliniczne fazy III EV-302.* Wykład sponsorowany
-6. Paweł Rajwa, *Chirurgia BPH 2.0. Jak robotyka i obrazowanie w czasie rzeczywistym zmieniają zasady gry.* Wykład sponsorowany
-7. *Pytania i dyskusja*
+6. Marcin Sokołowski, *Od sali operacyjnej do immunoterapii. Ścieżka pacjenta w leczeniu raka urotelialnego.* Wykład sponsorowany
+7. Paweł Rajwa, *Chirurgia BPH 2.0. Jak robotyka i obrazowanie w czasie rzeczywistym zmieniają zasady gry.* Wykład sponsorowany
 
 
 Sobota, 17.10.2026
@@ -35,7 +35,7 @@ Sobota, 17.10.2026
 4. Aleksander Radecki, *Robotyczna RPLND w guzach jądra  - małoinwazyjna alternatywa dla operacji klasycznych (Video)*
 5. Mikołaj Kisiała, *Wyniki funkcjonalne i onkologiczne - charakterystyka ogólna pierwszych 750 zabiegów RARP.*
 6. Patryk Patrzałek, *Wpływ doświadczenia operatora na wyniki okołooperacyjne robotycznej radykalnej prostatektomii – analiza 750 zabiegów.*
-7. *Pytania i dyskusja*
+7. Serhii Burlei, Antoni Łaczmański, *Laparoskopowa resekcja guza w przestrzeni zaotrzewnowej.*
 
 ### 10:20 -- 10:25 Przerwa
 
@@ -61,11 +61,11 @@ Sobota, 17.10.2026
 2. Jan Łaszkiewicz, *Kiedy można zrezygnować z asysty anestezjologa? TULA i URS w znieczuleniu miejscowym.*
 3. Adam Chełmoński, *Przezskórna biopsja guzów nerek pod kontrolą tomografii komputerowej: wykonalność, skuteczność diagnostyczna i profil bezpieczeństwa.*
 4. Jakub Hobot, *URS zstępujący jako metoda leczenia trudnych przypadków w endourologii.*
-5. Michał Iwanicki, *Ocena loży po krioablacji guzów nerek w TK i MRI.*
-6. Piotr Bryniarski, *Testy obciążeniowe w diagnostyce metabolicznej kamicy moczowej.*
-7. Maciej Hobot, *Strategie litotrypsji laserowej podczas RIRS: dusting vs fragmenting - wpływ na SFR oraz zastosowanie techniki FANS.*
-8. Wojciech Tomczak, *Profilaktyka nawrotu kamicy układu moczowego: wytyczne vs rzeczywistość.*
-9. *Pytania i dyskusja*
+5. Wojciech Krajewski, *Krioablacja -- lekcje po trzech latach zabiegów.*
+6. Michał Iwanicki, *Ocena loży po krioablacji guzów nerek w TK i MRI.*
+7. Piotr Bryniarski, *Testy obciążeniowe w diagnostyce metabolicznej kamicy moczowej.*
+8. Maciej Hobot, *Strategie litotrypsji laserowej podczas RIRS: dusting vs fragmenting - wpływ na SFR oraz zastosowanie techniki FANS.*
+9. Wojciech Tomczak, *Profilaktyka nawrotu kamicy układu moczowego: wytyczne vs rzeczywistość.*
 
 ### 13:30 -- 14:00 Przerwa -- Lunch
 

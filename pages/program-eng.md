@@ -19,7 +19,8 @@ Michał Wróbel, Marcin Życzkowski
 3. Paweł Rajwa, *Prostate cancer – current clinical challenges.* Sponsored lecture
 4. Bartosz Małkiewicz, *From dogma to precision: HERO and REVOLUTION — a new approach to ADT in 2026.* Sponsored lecture
 5. Wojciech Krajewski, *Phase III clinical trial EV-302.* Sponsored lecture
-6. Paweł Rajwa, *BPH Surgery 2.0. How robotics and real-time imaging change the game.* Sponsored lecture
+6. Marcin Sokołowski, *From the Operating Room to Immunotherapy: The Patient Journey in Urothelial Carcinoma Treatment.* Sponsored lecture
+7. Paweł Rajwa, *BPH Surgery 2.0. How robotics and real-time imaging change the game.* Sponsored lecture
 7. *Q&A and discussion*
 
 Saturday, 17.10.2026
@@ -34,7 +35,7 @@ Saturday, 17.10.2026
 4. Aleksander Radecki, *Robotic RPLND in testicular tumors -- a minimally invasive alternative to open surgery (Video).*
 5. Mikołaj Kisiała, *Functional and oncological outcomes -- general characterization of the first 750 RARP procedures.*
 6. Patryk Patrzałek, *Impact of surgeon experience on perioperative outcomes of robotic radical prostatectomy — an analysis of 750 procedures.*
-7. *Q&A and discussion*
+7. Serhii Burlei, Antoni Łaczmański, *Laparoscopic resection of retroperitoneal tumour.*
 
 ### 10:20 -- 10:25 Break
 
@@ -61,11 +62,11 @@ Saturday, 17.10.2026
 2. Jan Łaszkiewicz, *When can we omit anesthesiologist assistance? TULA and URS under local anesthesia.*
 3. Adam Chełmoński, *Percutaneous CT-guided renal tumor biopsy: feasibility, diagnostic yield, and safety profile.*
 4. Jakub Hobot, *Antegrade URS as a treatment strategy for challenging cases in endourology.*
-5. Michał Iwanicki, *Assessment of the post-cryoablation renal tumor bed on CT and MRI.*
-6. Piotr Bryniarski, *Loading/provocation tests in the metabolic evaluation of urolithiasis.*
-7. Maciej Hobot, *Laser lithotripsy strategies during RIRS: dusting vs. fragmentation — impact on SFR and application of the FANS technique.*
-8. Wojciech Tomczak, *Prevention of recurrent urinary tract stone disease: guidelines vs. clinical practice.*
-9. *Q&A and discussion*
+5. Wojciech Krajewski, *Cryoablation -- lessons after three years of practice.*
+6. Michał Iwanicki, *Assessment of the post-cryoablation renal tumor bed on CT and MRI.*
+7. Piotr Bryniarski, *Loading/provocation tests in the metabolic evaluation of urolithiasis.*
+8. Maciej Hobot, *Laser lithotripsy strategies during RIRS: dusting vs. fragmentation — impact on SFR and application of the FANS technique.*
+9. Wojciech Tomczak, *Prevention of recurrent urinary tract stone disease: guidelines vs. clinical practice.*
 
 ### 13:30 -- 14:00 Lunch Break
 

@@ -41,16 +41,7 @@ Ceryfikaty
 
 Konferencja pomyślnie przeszła certyfikacje:
 * Infarma [PDF]({{ site.baseurl }}/assets/doc/INFARMA_Certyfikat_11587.pdf)
-
-{% if 0 != 0 %}
-Ceryfikaty
----
-
-Konferencja pomyślnie przeszła certyfikacje:
-* SOWE [PDF]({{ site.baseurl }}/assets/doc/SOWE_2024_1632.pdf)
-* Infarma [PDF]({{ site.baseurl }}/assets/doc/INFARMA_Certyfikat_8574.pdf)
-
-{% endif %}
+* SOWE [PDF]({{ site.baseurl }}/assets/doc/POLMEDTECH_Certyfikat_3459.pdf)
 
 {% if 0 != 0 %}
 Sponsorzy
