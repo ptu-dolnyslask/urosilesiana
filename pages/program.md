@@ -50,7 +50,7 @@ Sobota, 17.10.2026
 6. Adam Gurwin, *PET-PSMA - świetne badanie, ale...*
 7. Bartosz Bujała, *Porównanie wyników biopsji fuzyjnych stercza metodą przezodbytniczą i przezkroczową w Klinice Urologii w Zabrzu.*
 8. Klaudia Korlacka, *PD-L1 w raku urotelialnym pęcherza moczowego: znaczenie biologiczne, ograniczenia interpretacyjne i rola w kwalifikacji do leczenia*
-9. *Pytania i dyskusja*
+9. Bartosz Małkiewicz, *Rak prostaty: jeden pacjent, wiele wyzwań. Czy i jak wielochorobowość i polifarmakoterapia powinny wpływać na współczesne decyzje terapeutyczne dotyczące wyboru ADT?*
 
 ### 11:55 -- 12:00 Przerwa
 
@@ -104,7 +104,7 @@ Niedziela, 18.10.2026
 ### 11:55 -- 12:00 Przerwa 
 
 ### 12:00 – 13:30 Sesja VIII: Varia
-**Prowadzący**: Andrzej Borzhijevsky, Krzysztof Ratajczyk, Radosław Piszczek
+**Prowadzący**: Artur Pietrusa, Radosław Piszczek
 
 1. Michał Tabor, *Guz nerki przeszczepionej – opis przypadku.*
 2. Jakub Mikszta, *Laparoskopowy NSS dużego guza u 30-letniej pacjentki.*

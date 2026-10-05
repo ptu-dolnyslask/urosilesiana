@@ -50,7 +50,7 @@ Saturday, 17.10.2026
 6. Adam Gurwin, *PET-PSMA — a great test, but...*
 7. Bartosz Bujała, *Comparison of transrectal vs. transperineal fusion prostate biopsy outcomes at the Department of Urology in Zabrze.*
 8. Klaudia Korlacka, *PD-L1 in urothelial bladder cancer: biological significance, interpretative limitations, and its role in treatment eligibility.*
-9. *Q&A and discussion*
+9. Bartosz Małkiewicz, *Prostate cancer: one patient, many challenges. Should and how multimorbidity and polypharmacy influence contemporary therapeutic decisions regarding the choice of ADT?*
 
 ### 11:55 -- 12:00 Break
 
@@ -105,7 +105,7 @@ Sunday, 18.10.2026
 ### 11:55 -- 12:00 Break
 
 ### 12:00 -- 13:30 Session VIII: Varia
-**Chairs**: Andrzej Borzhijevsky, Krzysztof Ratajczyk, Radosław Piszczek
+**Chairs**: Artur Pietrusa, Radosław Piszczek
 
 1. Michał Tabor, *Tumor in a transplanted kidney — a case report.*
 2. Jakub Mikszta, *Laparoscopic NSS of a large renal mass in a 30-year-old female patient.*
