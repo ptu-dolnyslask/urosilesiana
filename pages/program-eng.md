@@ -19,7 +19,7 @@ Michał Wróbel, Marcin Życzkowski
 3. Paweł Rajwa, *Prostate cancer – current clinical challenges.* Sponsored lecture
 4. Bartosz Małkiewicz, *From dogma to precision: HERO and REVOLUTION — a new approach to ADT in 2026.* Sponsored lecture
 5. Wojciech Krajewski, *Phase III clinical trial EV-302.* Sponsored lecture
-6. Marcin Sokołowski, *From the Operating Room to Immunotherapy: The Patient Journey in Urothelial Carcinoma Treatment.* Sponsored lecture
+6. Marcin Sokołowski, *From the Operating Room to Immunotherapy: The Patient Journey in Urothelial Carcinoma Treatment.* Sponsored lecture (Bristol Myers Squibb)
 7. Paweł Rajwa, *BPH Surgery 2.0. How robotics and real-time imaging change the game.* Sponsored lecture
 7. *Q&A and discussion*
 
@@ -30,7 +30,7 @@ Saturday, 17.10.2026
 **Chairs**: Tomasz Szydełko, Bartosz Małkiewicz, Michał Wróbel, Tomasz Tomkalski
 
 1. Tomasz Tomkalski, *When to operate and how to prepare a patient with an adrenal tumor.*
-2. Sebastian Bobowski, Wojciech Tomkalski, *Who did we operate on? Analysis of histopathological results from adrenalectomies.*
+2. Sebastian Bobowski, Wojciech Tomkalski, Jacek Rac, *Who did we operate on? Analysis of histopathological results from adrenalectomies.*
 3. Jakub Ryszawy, *Laparoscopic surgery of a 16 cm adrenal tumor.*
 4. Aleksander Radecki, *Robotic RPLND in testicular tumors -- a minimally invasive alternative to open surgery (Video).*
 5. Mikołaj Kisiała, *Functional and oncological outcomes -- general characterization of the first 750 RARP procedures.*

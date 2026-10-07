@@ -19,7 +19,7 @@ Michał Wróbel, Marcin Życzkowski
 3. Paweł Rajwa, *Rak gruczołu krokowego – aktualne wyzwania kliniczne.* Wykład sponsorowany
 4. Bartosz Małkiewicz, *Od dogmatu do precyzji: HERO i REVOLUTION — nowe podejście do ADT w 2026 roku.* Wykład sponsorowany
 5. Wojciech Krajewski, *Badanie kliniczne fazy III EV-302.* Wykład sponsorowany
-6. Marcin Sokołowski, *Od sali operacyjnej do immunoterapii. Ścieżka pacjenta w leczeniu raka urotelialnego.* Wykład sponsorowany
+6. Marcin Sokołowski, *Od sali operacyjnej do immunoterapii. Ścieżka pacjenta w leczeniu raka urotelialnego.* Wykład sponsorowany przez Bristol Myers Squibb
 7. Paweł Rajwa, *Chirurgia BPH 2.0. Jak robotyka i obrazowanie w czasie rzeczywistym zmieniają zasady gry.* Wykład sponsorowany
 
 
@@ -30,7 +30,7 @@ Sobota, 17.10.2026
 **Prowadzący**: Tomasz Szydełko, Bartosz Małkiewicz, Michał Wróbel, Tomasz Tomkalski
 
 1. Tomasz Tomkalski, *Kiedy operować i jak przygotować pacjenta z guzem nadnercza.*
-2. Sebastian Bobowski, Wojciech Tomkalski, *Kogo operowaliśmy? Analiza wyników histopatologicznych z adrenalektomii.*
+2. Sebastian Bobowski, Wojciech Tomkalski, Jacek Rac, *Kogo operowaliśmy? Analiza wyników histopatologicznych z adrenalektomii.*
 3. Jakub Ryszawy, *Operacja 16-centymetrowego guza nadnercza metodą laparoskopową.*
 4. Aleksander Radecki, *Robotyczna RPLND w guzach jądra  - małoinwazyjna alternatywa dla operacji klasycznych (Video)*
 5. Mikołaj Kisiała, *Wyniki funkcjonalne i onkologiczne - charakterystyka ogólna pierwszych 750 zabiegów RARP.*
