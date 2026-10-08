@@ -9,8 +9,8 @@ Konferencję Naukową Urologów z Dolnego i Górnego Śląska „{{site.title}}�
 W ramach konferencji odbędzie się również Polsko-Ukraińskie Spotkanie Urologów.
 
 {% if 0 != 0 %}
-**Za udział w konferencji przyznawane jest 9 punktów CME-CPD** [PDF]({{ site.baseurl }}/assets/doc/CME-CPD_2024.pdf)
 {% endif %}
+**Za udział w konferencji przyznawane jest 10 punktów CME-CPD** [PDF]({{ site.baseurl }}/assets/doc/CME-CPD-2026.pdf)
 
 Honorowy patronat:
 ---
