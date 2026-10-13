@@ -61,7 +61,7 @@ Sobota, 17.10.2026
 2. Jan Łaszkiewicz, *Kiedy można zrezygnować z asysty anestezjologa? TULA i URS w znieczuleniu miejscowym.*
 3. Adam Chełmoński, *Przezskórna biopsja guzów nerek pod kontrolą tomografii komputerowej: wykonalność, skuteczność diagnostyczna i profil bezpieczeństwa.*
 4. Jakub Hobot, *URS zstępujący jako metoda leczenia trudnych przypadków w endourologii.*
-5. Wojciech Krajewski, *Krioablacja -- lekcje po trzech latach zabiegów.*
+5. Wojciech Krajewski, *Krioablacja -- lekcje po trzech latach zabiegów.*, wykład sponsorowany przez Boston Scientific
 6. Michał Iwanicki, *Ocena loży po krioablacji guzów nerek w TK i MRI.*
 7. Piotr Bryniarski, *Testy obciążeniowe w diagnostyce metabolicznej kamicy moczowej.*
 8. Maciej Hobot, *Strategie litotrypsji laserowej podczas RIRS: dusting vs fragmenting - wpływ na SFR oraz zastosowanie techniki FANS.*

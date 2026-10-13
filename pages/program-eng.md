@@ -62,7 +62,7 @@ Saturday, 17.10.2026
 2. Jan Łaszkiewicz, *When can we omit anesthesiologist assistance? TULA and URS under local anesthesia.*
 3. Adam Chełmoński, *Percutaneous CT-guided renal tumor biopsy: feasibility, diagnostic yield, and safety profile.*
 4. Jakub Hobot, *Antegrade URS as a treatment strategy for challenging cases in endourology.*
-5. Wojciech Krajewski, *Cryoablation -- lessons after three years of practice.*
+5. Wojciech Krajewski, *Cryoablation -- lessons after three years of practice.*, sponsored lecture (Boston Scientific)
 6. Michał Iwanicki, *Assessment of the post-cryoablation renal tumor bed on CT and MRI.*
 7. Piotr Bryniarski, *Loading/provocation tests in the metabolic evaluation of urolithiasis.*
 8. Maciej Hobot, *Laser lithotripsy strategies during RIRS: dusting vs. fragmentation — impact on SFR and application of the FANS technique.*
